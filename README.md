@@ -1,7 +1,6 @@
 ### X Financial Technologies
 XFT is infrastructure for onchain capital markets. USDX is a yield-bearing permissionless stablecoin for the United States
 
-- [https://x-financial-technologies.replit.app/](XFT website)
 - [https://xft-card-issuance-api.vercel.app/](https://xft-card-issuance-api.vercel.app/)
 
 ### Payments use cases
