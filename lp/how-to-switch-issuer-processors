@@ -1,0 +1,399 @@
+<!DOCTYPE html><!-- Last Published: Fri Nov 08 2024 20:58:09 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.lithic.com" data-wf-page="669fb74007a2fb8f4db2a9de" data-wf-site="669fb74007a2fb8f4db2a8fd" lang="en" data-wf-collection="669fb74007a2fb8f4db2a90e" data-wf-item-slug="how-to-switch-issuer-processors"><head><meta charset="utf-8"/><title>Lithic</title><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/css/lithic-staging.webflow.7408999f7.min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66d866d56aaa90e69a4bb447_Favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66cc93ff66fe75d4ecd85284_Variant%3DChip%20in%20Square%20256.png" rel="apple-touch-icon"/><link href="how-to-switch-issuer-processors" rel="canonical"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-P773JVGZPM"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-P773JVGZPM', {'anonymize_ip': false});</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LVVHNX');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://cdn.seoplatform.io/injector.js?websiteId=19384"></script>
+
+<script type="text/javascript">
+(function() {
+ var didInit = false;
+ function initMunchkin() {
+   if(didInit === false) {
+     didInit = true;
+     Munchkin.init('103-JIU-691');
+   }
+ }
+ var s = document.createElement('script');
+ s.type = 'text/javascript';
+ s.async = true;
+ s.src = '//munchkin.marketo.net/munchkin.js';
+ s.onreadystatechange = function() {
+   if (this.readyState == 'complete' || this.readyState == 'loaded') {
+     initMunchkin();
+   }
+ };
+ s.onload = initMunchkin;
+ document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+<!-- Apollo -->
+<script>function initApollo(){var n=Math.random().toString(36).substring(7),o=document.createElement("script");
+o.src="https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache="+n,o.async=!0,o.defer=!0,
+o.onload=function(){window.trackingFunctions.onLoad({appId:"66a10a5b5faae002d1f2e0a3"})},
+document.head.appendChild(o)}initApollo();</script><style>
+
+/* Keep existing styles for form elements */
+form.mktoForm, .mktoFormCol, .form-text {
+  width: 100% !important;
+}
+
+.mktoGutter.mktoHasWidth {
+  display: none;
+}
+
+.mktoClear {
+  display: none;
+}
+
+.mktoAsterix {
+  color: #ff5c33 !important;
+}
+
+.mktoFieldWrap {
+  display: grid;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  grid-row-gap: 16px;
+  grid-column-gap: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .mktoFieldWrap {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+#LblTell_us_more_about_what_youre_building__c, #Tell_us_more_about_what_youre_building__c, #LblHow_did_you_hear_about_us__c, #How_did_you_hear_about_us__c, .mktoHtmlText.mktoHasWidth.form-text {
+  grid-column: span 2;
+}
+
+#LblTell_us_more_about_what_youre_building__c, #LblHow_did_you_hear_about_us__c {
+  border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+/* Reset styles for checkboxes */
+.mktoField.form-input[type="checkbox"] {
+  appearance: auto;
+  -webkit-appearance: auto;
+  width: auto !important;
+  height: auto !important;
+  border: none;
+  background-color: transparent;
+  margin-top: 24px;
+}
+
+.mktoField.form-input[type="checkbox"]:checked {
+  /* If you want to keep any specific styles for checked checkboxes, define them here */
+}
+
+#LblSubscription_Newsletter__c .mktoAsterix {
+  display: none;
+}
+
+</style></head><body><div class="page-wrapper"><div class="gtm w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LVVHNX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><div class="global-styles w-embed"><style>
+
+html { font-size: 1rem; }
+@media screen and (max-width:1470px) { html { font-size: calc(0.4245824634655532rem + 0.6263048016701462vw); } }
+@media screen and (max-width:991px) { html { font-size: 1rem; } }
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+/* Identify empty links and put the yellow outline in the designer only */
+html.wf-design-mode [href="#"] {
+	outline: 3px solid yellow !important;
+}
+
+</style></div><main class="main-wrapper"><div class="product-header-wrapper-light"><nav class="nav_main"><div data-animation="default" class="navbar_component w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease" data-collapse="medium" data-w-id="a5bbf24e-58fd-a7b8-d7dd-4b6e4df88086" role="banner" data-duration="400"><div class="navbar_container"><a href="https://www.lithic.com/" aria-label="home" id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df88088-4df88085" class="navbar_logo-link w-nav-brand"><div class="nav_logo-light w-embed"><svg width="100" height="17" viewBox="0 0 100 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M82.932 8.5002C82.932 3.55725 86.8188 0.790039 91.5716 0.790039C96.0076 0.790039 99.6409 3.47275 99.9789 7.21165H95.4162C95.1838 5.85973 93.6418 4.52894 91.5716 4.52894C89.4381 4.52894 87.3891 5.85973 87.3891 8.47907C87.3891 11.1829 89.4381 12.4926 91.5716 12.4926C93.6418 12.4926 95.1838 11.1618 95.4162 9.76762H100C99.6409 13.9079 96.0076 16.2315 91.5716 16.2315C86.8188 16.2315 82.932 13.2108 82.932 8.5002Z" fill="black"/>
+<path d="M77.1148 1.10691H81.5719V15.8935H77.1148V1.10691Z" fill="black"/>
+<path d="M75.7543 1.10691V15.8935H71.276V10.1479H64.3263V15.8935H59.8692V1.10691H64.3263V6.55683H71.276V1.10691H75.7543Z" fill="black"/>
+<path d="M58.5234 1.10691V4.69794H52.9468V15.8935H48.4685V4.69794H42.8919V1.10691H58.5234Z" fill="black"/>
+<path d="M37.0746 1.10691H41.5317V15.8935H37.0746V1.10691Z" fill="black"/>
+<path d="M27.1535 12.218L35.7298 12.1968V15.8935H22.6964V1.12802H27.1535V12.218Z" fill="black"/>
+<path d="M0 4.46558C3.10519 4.52895 4.4571 3.53614 4.52048 1.10691H8.53398V4.31771C8.53398 4.69794 8.2805 4.88805 8.15376 4.97255L4.4571 7.71863C4.37261 7.782 3.90789 8.16223 3.27418 8.16223H0V4.46558ZM17.7439 4.46558V8.16223H14.4697C13.836 8.16223 13.3713 7.782 13.2868 7.71863L9.59017 4.97255C9.48455 4.88805 9.20994 4.69794 9.20994 4.31771V1.10691H13.2234C13.2868 3.53614 14.6387 4.52895 17.7439 4.46558ZM0 12.5348V8.83819H3.27418C3.92901 8.83819 4.37261 9.21842 4.4571 9.28179L8.15376 12.0279C8.25937 12.1124 8.53398 12.2814 8.53398 12.6827V15.8935H4.52048C4.4571 13.4643 3.10519 12.4715 0 12.5348ZM17.7439 12.5348C14.6387 12.4715 13.2868 13.4643 13.2234 15.8935H9.20994V12.6827C9.20994 12.2814 9.48455 12.1124 9.59017 12.0279L13.2868 9.28179C13.3713 9.21842 13.836 8.83819 14.4697 8.83819H17.7439V12.5348Z" fill="black"/>
+</svg></div></a><nav role="navigation" id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df8808a-4df88085" class="navbar_menu is-page-height-tablet w-nav-menu"><div data-delay="0" data-hover="true" data-w-id="42c1cb30-0515-eda3-ae61-89f297e6d26c" class="nav_menu-dropdown w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Platform</div></div><nav class="nav_dropdown-list w-dropdown-list"><div class="nav_dropdown-bg"><div class="nav_container"><div class="nav_dropdown-content"><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bde9c-d84bde9b" class="nav_dropdown-column"><a href="../product/cards" class="nav_dropdown-title">Issuing</a><a href="../product/cards#prepaid" class="nav-col-link">Prepaid</a><a href="../product/cards#debit" class="nav-col-link">Debit</a><a href="../product/cards#credit" class="nav-col-link">Credit</a><a href="../product/cards#virtualcards" class="nav-col-link">Virtual Cards</a><a href="../product/cards#physicalcards" class="nav-col-link">Physical Cards</a><a href="../product/cards#digitalcards" class="nav-col-link">Tokenized &amp; Digital Wallet Cards</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdeab-d84bde9b" class="nav_dropdown-column"><a href="https://www.lithic.com/platform/processing" class="nav_dropdown-title">Processing</a><a href="https://www.lithic.com/platform/processing#asa" class="nav-col-link">Authorization Stream Access</a><a href="https://www.lithic.com/platform/processing#automatedreconciliation" class="nav-col-link">Automated Reconciliation</a><a href="https://www.lithic.com/platform/processing#api-webhooks" class="nav-col-link">Events API &amp; Webhooks</a><a href="https://www.lithic.com/platform/processing#reportingsuite" class="nav-col-link">Reporting Suite</a><a href="https://www.lithic.com/platform/processing#enhanceddata" class="nav-col-link">Enhanced Data</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdeb8-d84bde9b" class="nav_dropdown-column"><a href="../product/accounts" class="nav_dropdown-title">Accounts &amp; Money Movement</a><a href="../product/accounts#ach" class="nav-col-link">ACH</a><a href="../product/accounts#virtual" class="nav-col-link">Virtual &amp; Routable Accounts</a><a href="../product/accounts#onboarding" class="nav-col-link">Account Opening &amp; Onboarding</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdec1-d84bde9b" class="nav_dropdown-column"><a href="https://www.lithic.com/platform/risk-management" class="nav_dropdown-title">Risk Management</a><a href="https://www.lithic.com/platform/risk-management#3ds" class="nav-col-link">3-D Secure (3DS)</a><a href="https://www.lithic.com/platform/risk-management#tokenization" class="nav-col-link">Tokenization Control</a><a href="https://www.lithic.com/platform/risk-management#transactionmonitoring" class="nav-col-link">Transaction Monitoring</a><a href="https://www.lithic.com/platform/risk-management#compliance" class="nav-col-link">PCI Compliance</a><a href="https://www.lithic.com/platform/risk-management#chargeback" class="nav-col-link">Chargeback Management</a></div></div></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="82341536-3841-1e9a-ab09-eab5cc4458ae" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Services</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_20ed65fe-c4cb-c4e2-1347-610cb6e8eb32-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="https://www.lithic.com/services/graduation-path" class="nav-col-link-bold">Graduation Path</a><a href="https://www.lithic.com/services/program-management" class="nav-col-link-bold">Program Management</a><a href="https://www.lithic.com/services/processing-only" class="nav-col-link-bold">Processing Only</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="2192d00b-ddb3-922e-a547-6606983295a4" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Solutions</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_2192d00b-ddb3-922e-a547-6606983295a9-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="https://www.lithic.com/solutions/bill-pay" class="nav-col-link-bold">Bill Pay &amp; Accounts Payable</a><a href="https://www.lithic.com/solutions/cobrand-platforms" class="nav-col-link-bold">Cobrand Platforms</a><a href="https://www.lithic.com/solutions/digital-banking" class="nav-col-link-bold">Digital Banking</a><a href="https://www.lithic.com/solutions/expense-management" class="nav-col-link-bold">Expense Management</a><a href="https://www.lithic.com/solutions/fleet-cards" class="nav-col-link-bold">Fleet Cards</a><a href="https://www.lithic.com/solutions/disbursements" class="nav-col-link-bold">Disbursements</a><a href="https://www.lithic.com/solutions/rewards-and-incentives" class="nav-col-link-bold">Rewards &amp; Incentives</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="f7e4dd1f-5728-7992-c2a2-24281853c8e2" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Developers</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-f7e4dd1f-5728-7992-c2a2-24281853c8e7-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="https://docs.lithic.com/docs" target="_blank" class="nav-col-link-bold">Documentation</a><a href="https://app.lithic.com/signup" class="nav-col-link-bold">Sandbox</a><a href="https://status.lithic.com/" class="nav-col-link-bold">API Status</a><a href="https://docs.lithic.com/docs/api-libraries" target="_blank" class="nav-col-link-bold">Libraries &amp; SDKs</a><a href="https://docs.lithic.com/changelog" target="_blank" class="nav-col-link-bold">Changelog</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="cdf95aa7-9fbd-afd7-57a8-4dc6446f879b" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Resources</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-cdf95aa7-9fbd-afd7-57a8-4dc6446f87a0-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="../blog" class="nav-col-link-bold">Blog</a><a href="https://docs.lithic.com/docs/legal-templates" target="_blank" class="nav-col-link-bold">Legal Library</a><a href="https://www.lithic.com/press" class="nav-col-link-bold">Press</a><a href="https://www.lithic.com/legal/terms" class="nav-col-link-bold">Terms &amp; Conditions</a><a href="https://www.lithic.com/legal/privacy-policy" class="nav-col-link-bold">Privacy Policy</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="4839dc17-f63d-af08-bc13-29796e586750" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Company</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_4839dc17-f63d-af08-bc13-29796e586755-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="https://www.lithic.com/customers" class="nav-col-link-bold">Customers</a><a href="https://www.lithic.com/about" class="nav-col-link-bold">About</a><a href="https://www.lithic.com/careers" class="nav-col-link-bold">Careers</a><a href="https://www.lithic.com/contact" class="nav-col-link-bold">Contact</a></div><div class="dropdown-border"></div></div></nav></div><a href="https://www.lithic.com/contact" class="navbar_link w-nav-link">Contact Sales</a></nav><div id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df880a4-4df88085" class="navbar_button-wrapper"><a href="https://app.lithic.com/login" class="button is-nav w-inline-block"><div>Dashboard</div><div class="nav-button-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 14" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 14H13C13.5523 14 14 13.5523 14 13V1C14 0.447715 13.5523 0 13 0H9V2H12V12H9V14ZM6.58579 8L3.29289 11.2929L4.70711 12.7071L9.70711 7.70711C10.0976 7.31658 10.0976 6.68342 9.70711 6.29289L4.70711 1.29289L3.29289 2.70711L6.58579 6H0V8H6.58579Z" fill="currentColor"/>
+</svg></div></a><div class="navbar_menu-button w-nav-button"><div class="menu-icon"><div class="menu-icon_line-top"></div><div class="menu-icon_line-middle"><div class="menu-icon_line-middle-inner"></div></div><div class="menu-icon_line-bottom"></div></div></div></div></div></div></nav><section class="section relative"><div class="padding-global padding-section-medium z-index-3"><div class="container-medium"><div class="guides-header-layout"><h1 id="w-node-_8c90916d-a3b9-306d-d67e-3dc5e8cc9269-4db2a9de">How to Switch Issuer Processors: A Guide</h1><div id="w-node-_8c90916d-a3b9-306d-d67e-3dc5e8cc926b-4db2a9de" class="guides-thumbnail align-bottom"><img src="https://cdn.prod.website-files.com/637cc4f83fed1c7cbf48f8c8/660e6665dd5a83bf6a1d39da_download%20cover%20img.png" loading="lazy" alt="" class="resource-thumbnail"/></div></div></div></div><div class="product-header-pattern"><div class="bg-pattern w-embed"><svg width="100%" height="100%" viewBox="0 0 1470 662" preserveAspectRatio="xMidYMid slice" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path d="M635.081 -424.97L163.694 46.4167C-21.8244 231.935 -21.8244 532.72 163.694 718.239L163.701 718.246C349.22 903.764 650.005 903.764 835.523 718.246L1306.91 246.859C1492.43 61.3405 1492.43 -239.444 1306.91 -424.963L1306.9 -424.97C1121.38 -610.489 820.599 -610.489 635.081 -424.97Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M663.786 -424.97L163.694 75.1222C-13.8977 252.714 -13.8978 540.647 163.694 718.239L163.701 718.246C341.293 895.838 629.226 895.838 806.818 718.246L1306.91 218.154C1484.5 40.5619 1484.5 -247.371 1306.91 -424.963L1306.9 -424.97C1129.31 -602.562 841.378 -602.562 663.786 -424.97Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M692.492 -424.97L163.695 103.828C-5.97017 273.493 -5.97022 548.574 163.695 718.239C333.359 887.904 608.441 887.904 778.106 718.239L1306.9 189.441C1476.57 19.7763 1476.57 -255.305 1306.9 -424.97C1137.24 -594.635 862.157 -594.635 692.492 -424.97Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M721.198 -424.97L163.695 132.533C1.95641 294.271 1.9564 556.5 163.694 718.238C325.433 879.977 587.662 879.977 749.4 718.238L1306.9 160.735C1468.64 -1.00292 1468.64 -263.232 1306.9 -424.97C1145.17 -586.708 882.936 -586.708 721.198 -424.97Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M749.91 -424.963L163.701 161.246C9.88986 315.057 9.88985 564.435 163.701 718.246C317.512 872.057 566.89 872.057 720.701 718.246L1306.91 132.037C1460.72 -21.7742 1460.72 -271.152 1306.91 -424.963C1153.1 -578.774 903.721 -578.774 749.91 -424.963Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M778.616 -424.963L163.702 189.951C17.8175 335.836 17.8174 572.361 163.702 718.246C309.586 864.13 546.112 864.13 691.996 718.246L1306.91 103.332C1452.79 -42.5527 1452.8 -279.078 1306.91 -424.963C1161.03 -570.847 924.501 -570.847 778.616 -424.963Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M807.321 -424.963L163.702 218.657C25.744 356.615 25.744 580.288 163.702 718.246C301.659 856.204 525.333 856.204 663.291 718.246L1306.91 74.6263C1444.87 -63.3315 1444.87 -287.005 1306.91 -424.963C1168.95 -562.92 945.279 -562.92 807.321 -424.963Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M836.027 -424.963L163.702 247.362C33.6706 377.393 33.669 588.213 163.698 718.242C293.727 848.271 504.547 848.269 634.578 718.238L1306.9 45.9133C1436.93 -84.1176 1436.94 -294.938 1306.91 -424.967C1176.88 -554.995 966.058 -554.994 836.027 -424.963Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M864.732 -424.963L163.701 276.068C41.5973 398.172 41.5956 596.14 163.698 718.242C285.8 840.344 483.768 840.343 605.872 718.238L1306.9 17.2079C1429.01 -104.896 1429.01 -302.864 1306.91 -424.967C1184.8 -547.069 986.836 -547.067 864.732 -424.963Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M893.444 -424.97L163.694 304.781C49.5206 418.954 49.5206 604.065 163.694 718.239L163.701 718.246C277.874 832.419 462.986 832.419 577.159 718.246L1306.91 -11.5048C1421.08 -125.678 1421.08 -310.79 1306.91 -424.963L1306.9 -424.97C1192.73 -539.143 1007.62 -539.143 893.444 -424.97Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M862.094 -375.24L213.435 273.419C107.233 379.621 107.233 551.809 213.435 658.011L223.929 668.506C330.132 774.708 502.319 774.708 608.521 668.506L1257.18 19.8466C1363.38 -86.3555 1363.38 -258.543 1257.18 -364.746L1246.69 -375.24C1140.48 -481.442 968.296 -481.442 862.094 -375.24Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M830.749 -325.518L263.175 242.057C164.944 340.288 164.944 499.552 263.175 597.783L284.164 618.773C382.395 717.004 541.659 717.004 639.89 618.773L1207.47 51.1977C1305.7 -47.0333 1305.7 -206.297 1207.47 -304.528L1186.48 -325.518C1088.24 -423.749 928.981 -423.749 830.749 -325.518Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M799.369 -275.759L312.871 210.739C222.615 300.995 222.615 447.329 312.871 537.584L344.362 569.076C434.618 659.332 580.952 659.332 671.208 569.076L1157.71 82.5779C1247.96 -7.67806 1247.96 -154.012 1157.71 -244.268L1126.21 -275.759C1035.96 -366.015 889.625 -366.015 799.369 -275.759Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M768.018 -226.029L362.612 179.377C280.327 261.662 280.327 395.072 362.612 477.357L404.591 519.336C486.876 601.62 620.286 601.62 702.57 519.336L1107.98 113.929C1190.26 31.6444 1190.26 -101.766 1107.98 -184.051L1066 -226.029C983.713 -308.314 850.303 -308.314 768.018 -226.029Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M736.681 -176.314L412.345 148.023C338.035 222.332 338.035 342.812 412.345 417.122L464.833 469.61C539.142 543.92 659.622 543.92 733.932 469.61L1058.27 145.273C1132.58 70.9635 1132.58 -49.5163 1058.27 -123.826L1005.78 -176.314C931.471 -250.624 810.991 -250.624 736.681 -176.314Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M705.324 -126.593L462.079 116.653C395.74 182.991 395.74 290.547 462.079 356.886L525.054 419.861C591.393 486.2 698.949 486.2 765.287 419.861L1008.53 176.616C1074.87 110.277 1074.87 2.72141 1008.53 -63.6171L945.557 -126.593C879.219 -192.931 771.663 -192.931 705.324 -126.593Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M673.979 -76.869L511.81 85.2994C453.447 143.663 453.447 238.289 511.81 296.652L585.288 370.13C643.651 428.493 738.277 428.493 796.641 370.13L958.809 207.961C1017.17 149.598 1017.17 54.9721 958.809 -3.39137L885.331 -76.8689C826.968 -135.232 732.342 -135.232 673.979 -76.869Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M642.635 -27.1472L561.551 53.937C511.159 104.329 511.159 186.031 561.551 236.424L645.516 320.389C695.908 370.781 777.611 370.781 828.003 320.389L909.087 239.305C959.479 188.912 959.479 107.21 909.087 56.8177L825.122 -27.1472C774.73 -77.5396 693.028 -77.5396 642.635 -27.1472Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M764.868 22.6194C722.447 -19.8018 653.67 -19.8035 611.251 22.6158C568.832 65.035 568.834 133.812 611.255 176.233L705.714 270.693C748.136 313.114 816.913 313.116 859.332 270.696C901.751 228.277 901.749 159.5 859.328 117.079L764.868 22.6194Z" stroke="#AA8855" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+</g>
+</svg></div></div><div class="gradient-white is-small"></div></section></div><section class="section"><div class="padding-global"><div class="container-medium"><div class="main-form-wrapper"></div><div class="guides-header-layout align-top"><div id="w-node-_8c90916d-a3b9-306d-d67e-3dc5e8cc9275-4db2a9de" class="guides-content-rt w-richtext"><h5>Looking for a new issuer processor?</h5><p>You may be eyeing advancements in transaction processing, enhanced security measures, or better support for emerging payment methods. Or maybe you’re frustrated with support issues, outages, or poor customer experiences.</p><p>Whatever the reason, Lithic’s step-by-step guide can help you take a strategic and considered approach to switching issuer processors.</p><h5>Our step-by-step guide covers:</h5><ul role="list"><li>Key considerations when planning a switch</li><li>How to prepare a migration plan</li><li>What to expect from your existing processor during the transition</li><li>... and much more</li></ul></div><div class="salesforce-form w-form"><form id="contact-form" name="wf-form-Salesforce-Form" data-name="Salesforce Form" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&amp;orgId=00D4x000006qttC" method="post" data-wf-page-id="669fb74007a2fb8f4db2a9de" data-wf-element-id="8c90916d-a3b9-306d-d67e-3dc5e8cc928c" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e"><div class="form-input-wrapper"><label for="first_name-2" class="form-label">First Name</label><input class="sf-form-input w-input" maxlength="256" name="first_name" data-name="first_name" placeholder="First Name" type="text" id="first_name-2" required=""/></div><div class="form-input-wrapper"><label for="last_name-3" class="form-label">Last Name</label><input class="sf-form-input w-input" maxlength="256" name="last_name" data-name="last_name" placeholder="Last Name" type="text" id="last_name-3" required=""/></div><div class="form-input-wrapper"><label for="email-3" class="form-label">Work Email</label><input class="sf-form-input w-input" maxlength="256" name="email" data-name="email" placeholder="email@example.com" type="email" id="email-3" required=""/></div><div class="form-input-wrapper"><label for="phone-3" class="form-label">Phone Number</label><input class="sf-form-input w-input" maxlength="256" name="phone" data-name="phone" placeholder="(123) 456-7890" type="tel" id="phone-3" required=""/></div><div class="form-input-wrapper"><label for="company-3" class="form-label">Company</label><input class="sf-form-input w-input" maxlength="256" name="company" data-name="company" placeholder="Example, Inc." type="text" id="company-3" required=""/></div><div class="form-input-wrapper"><label for="website-3" class="form-label">Company Website</label><input class="sf-form-input w-input" maxlength="256" name="website" data-name="website" placeholder="example.com" type="text" id="website-3" required=""/></div><div class="form-input-wrapper"><label for="title" class="form-label">Job Title</label><input class="sf-form-input w-input" maxlength="256" name="title" data-name="title" placeholder="Your Title" type="text" id="title" required=""/></div><div class="form-hidden-inputs w-embed"><input type=hidden name="oid" value="00D4x000006qttC">
+<input type=hidden name="retURL" value="https://www.lithic.com/thank-you">
+<input type=hidden name="lead_source" value="Website - Gated Asset">
+<input type=hidden name="email_address" value=""></div><div class="flex-right margin-top margin-small"><div class="form-button-wrapper is-guides"><input type="submit" data-wait="" class="form-submit w-button" value=""/><div class="button is-form-submiit-ui"><div>Get Your Guide</div><div class="button-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 14" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 13C14 13.5523 13.5523 14 13 14L1 14C0.447715 14 -1.95703e-08 13.5523 -4.37114e-08 13L-2.18557e-07 9L2 9L2 12L12 12L12 9L14 9L14 13ZM11.2929 3.29289L8 6.58579L8 6.03983e-07L6 -2.62268e-07L6 6.58579L2.70711 3.29289L1.29289 4.70711L6.29289 9.70711C6.48043 9.89464 6.73478 10 7 10C7.26522 10 7.51957 9.89464 7.70711 9.70711L12.7071 4.70711L11.2929 3.29289Z" fill="currentColor"/>
+</svg></div></div></div></div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="spacer-xxhuge"></div></div></section></main><footer class="section section-footer"><div class="footer-main"><div class="footer-container"><div class="footer-layout"><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38b0-07db38ac" class="footer-col"><div class="footer-col-heading">Platform</div><a href="../product/cards" class="footer-link">Issuing</a><a href="https://www.lithic.com/platform/processing" class="footer-link">Processing</a><a href="../product/accounts" class="footer-link">Accounts &amp; Transfers</a><a href="https://www.lithic.com/platform/risk-management" class="footer-link is-last">Risk Management</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38bb-07db38ac" class="footer-col"><div class="footer-col-heading">Services</div><a href="https://www.lithic.com/services/graduation-path" class="footer-link">Graduation Path</a><a href="https://www.lithic.com/services/processing-only" class="footer-link">Processing Only</a><a href="https://www.lithic.com/services/program-management" class="footer-link">Program Management</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38c6-07db38ac" class="footer-col"><div class="footer-col-heading">Solutions</div><a href="https://www.lithic.com/solutions/bill-pay" class="footer-link">Bill Pay &amp; Accounts Payable</a><a href="https://www.lithic.com/solutions/digital-banking" class="footer-link">Digital Banking</a><a href="https://www.lithic.com/solutions/disbursements" class="footer-link">Disbursements</a><a href="https://www.lithic.com/solutions/expense-management" class="footer-link">Expense Management</a><a href="https://www.lithic.com/solutions/rewards-and-incentives" class="footer-link">Rewards &amp; Incentives</a><a href="https://www.lithic.com/solutions/cobrand-platforms" class="footer-link">Platforms</a><a href="https://www.lithic.com/solutions/fleet-cards" class="footer-link">Fleet Cards</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38d7-07db38ac" class="footer-col"><div class="footer-col-heading">Developers</div><a href="https://docs.lithic.com/docs/getting-started" target="_blank" class="footer-link">Documentation</a><a href="https://app.lithic.com/signup" class="footer-link">Sandbox</a><a href="https://status.lithic.com/" target="_blank" class="footer-link">API Status</a><a href="https://docs.lithic.com/docs/api-libraries" target="_blank" class="footer-link">Libraries &amp; SDKs</a><a href="https://docs.lithic.com/changelog" target="_blank" class="footer-link is-last">Changelog</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38e4-07db38ac" class="footer-col"><div class="footer-col-heading">Resources</div><a href="../blog" class="footer-link">Blog</a><a href="https://docs.lithic.com/docs/legal-templates" target="_blank" class="footer-link">Legal Library</a><a href="https://www.lithic.com/press" class="footer-link">Press</a><a href="https://www.lithic.com/legal/terms" class="footer-link">Terms &amp; Conditions</a><a href="https://www.lithic.com/legal/privacy-policy" class="footer-link is-last">Privacy Policy</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38f1-07db38ac" class="footer-col"><div class="footer-col-heading">Company</div><a href="https://www.lithic.com/customers" class="footer-link">Customers</a><a href="https://www.lithic.com/about" class="footer-link">About</a><a href="https://www.lithic.com/careers" class="footer-link">Careers</a><a href="https://www.lithic.com/contact" class="footer-link">Contact</a></div></div><div class="spacer-large mobile-large"></div><div class="footer-layout _3-col-mobile-p"><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38fe-07db38ac" class="footer-col"><a href="https://www.lithic.com/" aria-label="home" id="w-node-_74490150-523d-0e86-ce42-27fe07db38ff-07db38ac" class="navbar_logo-link w-nav-brand"><div class="nav_logo w-embed"><svg width="100" height="17" viewBox="0 0 100 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M82.932 8.5002C82.932 3.55725 86.8188 0.790039 91.5716 0.790039C96.0076 0.790039 99.6409 3.47275 99.9789 7.21165H95.4162C95.1838 5.85973 93.6418 4.52894 91.5716 4.52894C89.4381 4.52894 87.3891 5.85973 87.3891 8.47907C87.3891 11.1829 89.4381 12.4926 91.5716 12.4926C93.6418 12.4926 95.1838 11.1618 95.4162 9.76762H100C99.6409 13.9079 96.0076 16.2315 91.5716 16.2315C86.8188 16.2315 82.932 13.2108 82.932 8.5002Z" fill="white"/>
+<path d="M77.1148 1.10691H81.5719V15.8935H77.1148V1.10691Z" fill="white"/>
+<path d="M75.7543 1.10691V15.8935H71.276V10.1479H64.3263V15.8935H59.8692V1.10691H64.3263V6.55683H71.276V1.10691H75.7543Z" fill="white"/>
+<path d="M58.5234 1.10691V4.69794H52.9468V15.8935H48.4685V4.69794H42.8919V1.10691H58.5234Z" fill="white"/>
+<path d="M37.0746 1.10691H41.5317V15.8935H37.0746V1.10691Z" fill="white"/>
+<path d="M27.1535 12.218L35.7298 12.1968V15.8935H22.6964V1.12802H27.1535V12.218Z" fill="white"/>
+<path d="M0 4.46558C3.10519 4.52895 4.4571 3.53614 4.52048 1.10691H8.53398V4.31771C8.53398 4.69794 8.2805 4.88805 8.15376 4.97255L4.4571 7.71863C4.37261 7.782 3.90789 8.16223 3.27418 8.16223H0V4.46558ZM17.7439 4.46558V8.16223H14.4697C13.836 8.16223 13.3713 7.782 13.2868 7.71863L9.59017 4.97255C9.48455 4.88805 9.20994 4.69794 9.20994 4.31771V1.10691H13.2234C13.2868 3.53614 14.6387 4.52895 17.7439 4.46558ZM0 12.5348V8.83819H3.27418C3.92901 8.83819 4.37261 9.21842 4.4571 9.28179L8.15376 12.0279C8.25937 12.1124 8.53398 12.2814 8.53398 12.6827V15.8935H4.52048C4.4571 13.4643 3.10519 12.4715 0 12.5348ZM17.7439 12.5348C14.6387 12.4715 13.2868 13.4643 13.2234 15.8935H9.20994V12.6827C9.20994 12.2814 9.48455 12.1124 9.59017 12.0279L13.2868 9.28179C13.3713 9.21842 13.836 8.83819 14.4697 8.83819H17.7439V12.5348Z" fill="white"/>
+</svg></div></a></div><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3901-07db38ac" href="https://www.linkedin.com/company/lithic/" target="_blank" class="footer-link-bottom">LinkedIn</a><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3903-07db38ac" href="https://x.com/lithic" target="_blank" class="footer-link-bottom">Twitter</a><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3905-07db38ac" href="https://www.youtube.com/@LithicHQ" target="_blank" class="footer-link-bottom">YouTube</a><div id="w-node-_74490150-523d-0e86-ce42-27fe07db3907-07db38ac" class="footer-link-bottom">© Lithic, Inc. All rights reserved. Lithic is not a bank.</div></div></div></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=669fb74007a2fb8f4db2a8fd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/js/webflow.c1a238c06.js" type="text/javascript"></script><script> (function(ss,ex){ window.ldfdr=window.ldfdr||function(){(ldfdr._q=ldfdr._q||[]).push([].slice.call(arguments));}; (function(d,s){ fs=d.getElementsByTagName(s)[0]; function ce(src){ var cs=d.createElement(s); cs.src=src; cs.async=1; fs.parentNode.insertBefore(cs,fs); }; ce('https://sc.lfeeder.com/lftracker_v1_'+ss+(ex?'_'+ex:'')+'.js'); })(document,'script'); })('lYNOR8x6EAq4WQJZ'); </script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "6935849";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6935849&fmt=gif" />
+</noscript>
+
+<script>
+/* Update .copyright-year to the class you add to the year number on your copyright text */
+$(function() {
+  $('.copyright-year').text(new Date().getFullYear());
+});
+</script><!-- SF -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var form = document.querySelector('#contact-form');
+    form.addEventListener('submit', function(event) {
+      var emailInput = form.querySelector('input[name="email_address"]');
+      var firstNameInput = form.querySelector('input[name="first_name"]');
+	    if (
+      	(emailInput && emailInput.value.trim() !== "") ||
+        (firstNameInput && firstNameInput.value.includes("GoogyGM"))
+      ) {
+        event.preventDefault();
+        window.location.href = "https://www.lithic.com/thank-you";
+      }
+    });
+  });
+</script>
+
+<!-- Marketo Form Styling + Redirect -->
+<script>
+function mktoUpdate(form, url, tab) {
+	// redirect
+	if(typeof url === "string" && url.length >= 1) {
+		form.onSuccess(function(values, followUpUrl) {
+			if(typeof tab === "boolean" && tab === false) {
+				location.href = url
+			}
+			else {
+				window.open(url)
+			}
+			return false
+		})
+	}
+	form = form.getFormElem();
+	// remove
+	$(form).removeAttr("style");
+	$(form).removeClass();
+	$(form).find("*").removeAttr("style");
+	// add
+	$(form).find("label").addClass("field-label");
+	$(form).find("input").addClass("form-input");
+	$(form).find("textarea").addClass("is-text-area");
+	$(form).find(".mktoHtmlText").addClass("form-text");
+	$(form).find("button").addClass("lp-submit");
+}
+</script></body></html>

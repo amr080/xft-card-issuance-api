@@ -1,0 +1,450 @@
+<!DOCTYPE html><!-- Last Published: Fri Nov 08 2024 20:58:09 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.lithic.com" data-wf-page="669fb74007a2fb8f4db2a974" data-wf-site="669fb74007a2fb8f4db2a8fd" lang="en"><head><meta charset="utf-8"/><title>We&#x27;re Hiring! Level-Up Your FinTech Career, Today | Lithic</title><meta content="Level-up your career at Lithic. Competitive comp and equity, unlimited PTO, 401K match, remote-friendly, and health, vision, and dental insurance." name="description"/><meta content="We&#x27;re Hiring! Level-Up Your FinTech Career, Today | Lithic" property="og:title"/><meta content="Level-up your career at Lithic. Competitive comp and equity, unlimited PTO, 401K match, remote-friendly, and health, vision, and dental insurance." property="og:description"/><meta content="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66c5fcbc1dfd87af9e263c08_opengraph-preview.webp" property="og:image"/><meta content="We&#x27;re Hiring! Level-Up Your FinTech Career, Today | Lithic" property="twitter:title"/><meta content="Level-up your career at Lithic. Competitive comp and equity, unlimited PTO, 401K match, remote-friendly, and health, vision, and dental insurance." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66c5fcbc1dfd87af9e263c08_opengraph-preview.webp" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/css/lithic-staging.webflow.7408999f7.min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66d866d56aaa90e69a4bb447_Favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/66cc93ff66fe75d4ecd85284_Variant%3DChip%20in%20Square%20256.png" rel="apple-touch-icon"/><link href="https://www.lithic.com/careers" rel="canonical"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-P773JVGZPM"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-P773JVGZPM', {'anonymize_ip': false});</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LVVHNX');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://cdn.seoplatform.io/injector.js?websiteId=19384"></script>
+
+<script type="text/javascript">
+(function() {
+ var didInit = false;
+ function initMunchkin() {
+   if(didInit === false) {
+     didInit = true;
+     Munchkin.init('103-JIU-691');
+   }
+ }
+ var s = document.createElement('script');
+ s.type = 'text/javascript';
+ s.async = true;
+ s.src = '//munchkin.marketo.net/munchkin.js';
+ s.onreadystatechange = function() {
+   if (this.readyState == 'complete' || this.readyState == 'loaded') {
+     initMunchkin();
+   }
+ };
+ s.onload = initMunchkin;
+ document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+<!-- Apollo -->
+<script>function initApollo(){var n=Math.random().toString(36).substring(7),o=document.createElement("script");
+o.src="https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache="+n,o.async=!0,o.defer=!0,
+o.onload=function(){window.trackingFunctions.onLoad({appId:"66a10a5b5faae002d1f2e0a3"})},
+document.head.appendChild(o)}initApollo();</script></head><body><div class="page-wrapper"><div class="gtm w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LVVHNX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><div class="global-styles w-embed"><style>
+
+html { font-size: 1rem; }
+@media screen and (max-width:1470px) { html { font-size: calc(0.4245824634655532rem + 0.6263048016701462vw); } }
+@media screen and (max-width:991px) { html { font-size: 1rem; } }
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+/* Identify empty links and put the yellow outline in the designer only */
+html.wf-design-mode [href="#"] {
+	outline: 3px solid yellow !important;
+}
+
+</style></div><main class="main-wrapper"><div class="product-header-wrapper-light"><nav class="nav_main"><div data-animation="default" class="navbar_component w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease" data-collapse="medium" data-w-id="a5bbf24e-58fd-a7b8-d7dd-4b6e4df88086" role="banner" data-duration="400"><div class="navbar_container"><a href="index.html" aria-label="home" id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df88088-4df88085" class="navbar_logo-link w-nav-brand"><div class="nav_logo-light w-embed"><svg width="100" height="17" viewBox="0 0 100 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M82.932 8.5002C82.932 3.55725 86.8188 0.790039 91.5716 0.790039C96.0076 0.790039 99.6409 3.47275 99.9789 7.21165H95.4162C95.1838 5.85973 93.6418 4.52894 91.5716 4.52894C89.4381 4.52894 87.3891 5.85973 87.3891 8.47907C87.3891 11.1829 89.4381 12.4926 91.5716 12.4926C93.6418 12.4926 95.1838 11.1618 95.4162 9.76762H100C99.6409 13.9079 96.0076 16.2315 91.5716 16.2315C86.8188 16.2315 82.932 13.2108 82.932 8.5002Z" fill="black"/>
+<path d="M77.1148 1.10691H81.5719V15.8935H77.1148V1.10691Z" fill="black"/>
+<path d="M75.7543 1.10691V15.8935H71.276V10.1479H64.3263V15.8935H59.8692V1.10691H64.3263V6.55683H71.276V1.10691H75.7543Z" fill="black"/>
+<path d="M58.5234 1.10691V4.69794H52.9468V15.8935H48.4685V4.69794H42.8919V1.10691H58.5234Z" fill="black"/>
+<path d="M37.0746 1.10691H41.5317V15.8935H37.0746V1.10691Z" fill="black"/>
+<path d="M27.1535 12.218L35.7298 12.1968V15.8935H22.6964V1.12802H27.1535V12.218Z" fill="black"/>
+<path d="M0 4.46558C3.10519 4.52895 4.4571 3.53614 4.52048 1.10691H8.53398V4.31771C8.53398 4.69794 8.2805 4.88805 8.15376 4.97255L4.4571 7.71863C4.37261 7.782 3.90789 8.16223 3.27418 8.16223H0V4.46558ZM17.7439 4.46558V8.16223H14.4697C13.836 8.16223 13.3713 7.782 13.2868 7.71863L9.59017 4.97255C9.48455 4.88805 9.20994 4.69794 9.20994 4.31771V1.10691H13.2234C13.2868 3.53614 14.6387 4.52895 17.7439 4.46558ZM0 12.5348V8.83819H3.27418C3.92901 8.83819 4.37261 9.21842 4.4571 9.28179L8.15376 12.0279C8.25937 12.1124 8.53398 12.2814 8.53398 12.6827V15.8935H4.52048C4.4571 13.4643 3.10519 12.4715 0 12.5348ZM17.7439 12.5348C14.6387 12.4715 13.2868 13.4643 13.2234 15.8935H9.20994V12.6827C9.20994 12.2814 9.48455 12.1124 9.59017 12.0279L13.2868 9.28179C13.3713 9.21842 13.836 8.83819 14.4697 8.83819H17.7439V12.5348Z" fill="black"/>
+</svg></div></a><nav role="navigation" id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df8808a-4df88085" class="navbar_menu is-page-height-tablet w-nav-menu"><div data-delay="0" data-hover="true" data-w-id="42c1cb30-0515-eda3-ae61-89f297e6d26c" class="nav_menu-dropdown w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Platform</div></div><nav class="nav_dropdown-list w-dropdown-list"><div class="nav_dropdown-bg"><div class="nav_container"><div class="nav_dropdown-content"><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bde9c-d84bde9b" class="nav_dropdown-column"><a href="platform/issuing" class="nav_dropdown-title">Issuing</a><a href="platform/issuing#prepaid" class="nav-col-link">Prepaid</a><a href="platform/issuing#debit" class="nav-col-link">Debit</a><a href="platform/issuing#credit" class="nav-col-link">Credit</a><a href="platform/issuing#virtualcards" class="nav-col-link">Virtual Cards</a><a href="platform/issuing#physicalcards" class="nav-col-link">Physical Cards</a><a href="platform/issuing#digitalcards" class="nav-col-link">Tokenized &amp; Digital Wallet Cards</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdeab-d84bde9b" class="nav_dropdown-column"><a href="platform/processing" class="nav_dropdown-title">Processing</a><a href="platform/processing#asa" class="nav-col-link">Authorization Stream Access</a><a href="platform/processing#automatedreconciliation" class="nav-col-link">Automated Reconciliation</a><a href="platform/processing#api-webhooks" class="nav-col-link">Events API &amp; Webhooks</a><a href="platform/processing#reportingsuite" class="nav-col-link">Reporting Suite</a><a href="platform/processing#enhanceddata" class="nav-col-link">Enhanced Data</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdeb8-d84bde9b" class="nav_dropdown-column"><a href="platform/accounts" class="nav_dropdown-title">Accounts &amp; Money Movement</a><a href="platform/accounts#ach" class="nav-col-link">ACH</a><a href="platform/accounts#virtual" class="nav-col-link">Virtual &amp; Routable Accounts</a><a href="platform/accounts#onboarding" class="nav-col-link">Account Opening &amp; Onboarding</a></div><div id="w-node-a3c5d34f-7556-810e-c44e-c0c9d84bdec1-d84bde9b" class="nav_dropdown-column"><a href="platform/risk-management" class="nav_dropdown-title">Risk Management</a><a href="platform/risk-management#3ds" class="nav-col-link">3-D Secure (3DS)</a><a href="platform/risk-management#tokenization" class="nav-col-link">Tokenization Control</a><a href="platform/risk-management#transactionmonitoring" class="nav-col-link">Transaction Monitoring</a><a href="platform/risk-management#compliance" class="nav-col-link">PCI Compliance</a><a href="platform/risk-management#chargeback" class="nav-col-link">Chargeback Management</a></div></div></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="82341536-3841-1e9a-ab09-eab5cc4458ae" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Services</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_20ed65fe-c4cb-c4e2-1347-610cb6e8eb32-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="services/graduation-path" class="nav-col-link-bold">Graduation Path</a><a href="services/program-management" class="nav-col-link-bold">Program Management</a><a href="services/processing-only" class="nav-col-link-bold">Processing Only</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="2192d00b-ddb3-922e-a547-6606983295a4" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Solutions</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_2192d00b-ddb3-922e-a547-6606983295a9-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="solutions/bill-pay" class="nav-col-link-bold">Bill Pay &amp; Accounts Payable</a><a href="solutions/cobrand-platforms" class="nav-col-link-bold">Cobrand Platforms</a><a href="solutions/digital-banking" class="nav-col-link-bold">Digital Banking</a><a href="solutions/expense-management" class="nav-col-link-bold">Expense Management</a><a href="solutions/fleet-cards" class="nav-col-link-bold">Fleet Cards</a><a href="solutions/disbursements" class="nav-col-link-bold">Disbursements</a><a href="solutions/rewards-and-incentives" class="nav-col-link-bold">Rewards &amp; Incentives</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="f7e4dd1f-5728-7992-c2a2-24281853c8e2" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Developers</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-f7e4dd1f-5728-7992-c2a2-24281853c8e7-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="https://docs.lithic.com/docs" target="_blank" class="nav-col-link-bold">Documentation</a><a href="https://app.lithic.com/signup" class="nav-col-link-bold">Sandbox</a><a href="https://status.lithic.com/" class="nav-col-link-bold">API Status</a><a href="https://docs.lithic.com/docs/api-libraries" target="_blank" class="nav-col-link-bold">Libraries &amp; SDKs</a><a href="https://docs.lithic.com/changelog" target="_blank" class="nav-col-link-bold">Changelog</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="cdf95aa7-9fbd-afd7-57a8-4dc6446f879b" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Resources</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-cdf95aa7-9fbd-afd7-57a8-4dc6446f87a0-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="http://www.lithic.com/blog" class="nav-col-link-bold">Blog</a><a href="https://docs.lithic.com/docs/legal-templates" target="_blank" class="nav-col-link-bold">Legal Library</a><a href="press" class="nav-col-link-bold">Press</a><a href="legal/terms" class="nav-col-link-bold">Terms &amp; Conditions</a><a href="legal/privacy-policy" class="nav-col-link-bold">Privacy Policy</a></div><div class="dropdown-border"></div></div></nav></div><div data-delay="0" data-hover="true" data-w-id="4839dc17-f63d-af08-bc13-29796e586750" class="nav_menu-dropdown cc-relative w-dropdown"><div class="nav_dropdown-toggle w-dropdown-toggle"><div>Company</div></div><nav class="nav_dropdown-list cc-services w-dropdown-list"><div id="w-node-_4839dc17-f63d-af08-bc13-29796e586755-4df88085" class="nav_dropdown-single-col"><div class="menu-links"><a href="customers" class="nav-col-link-bold">Customers</a><a href="about" class="nav-col-link-bold">About</a><a href="careers" aria-current="page" class="nav-col-link-bold w--current">Careers</a><a href="contact" class="nav-col-link-bold">Contact</a></div><div class="dropdown-border"></div></div></nav></div><a href="contact" class="navbar_link w-nav-link">Contact Sales</a></nav><div id="w-node-a5bbf24e-58fd-a7b8-d7dd-4b6e4df880a4-4df88085" class="navbar_button-wrapper"><a href="https://app.lithic.com/login" class="button is-nav w-inline-block"><div>Dashboard</div><div class="nav-button-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 14" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 14H13C13.5523 14 14 13.5523 14 13V1C14 0.447715 13.5523 0 13 0H9V2H12V12H9V14ZM6.58579 8L3.29289 11.2929L4.70711 12.7071L9.70711 7.70711C10.0976 7.31658 10.0976 6.68342 9.70711 6.29289L4.70711 1.29289L3.29289 2.70711L6.58579 6H0V8H6.58579Z" fill="currentColor"/>
+</svg></div></a><div class="navbar_menu-button w-nav-button"><div class="menu-icon"><div class="menu-icon_line-top"></div><div class="menu-icon_line-middle"><div class="menu-icon_line-middle-inner"></div></div><div class="menu-icon_line-bottom"></div></div></div></div></div></div></nav><section class="section relative"><div class="padding-global padding-section-large z-index-2"><div class="container-medium"><div class="layout-2-col tablet-1-col"><div id="w-node-_7b4cb79b-b3e5-1cd7-253c-5bc312f79464-4db2a974" class="flex-vertical-left space-between"><div><h1 class="max-width-medium">We’re making digital payments safer and easier for everyone.</h1><div class="spacer-large"></div></div><a id="w-node-bcc6dde9-5ab4-a0f9-9cbe-30c093914c4b-4db2a974" href="careers#job-openings" class="button is-purple w-inline-block"><div>Browse Job Openings</div><div class="button-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 14" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.58579 8.00008L5.29289 12.293L6.70711 13.7072L12.7071 7.70718C13.0976 7.31666 13.0976 6.68349 12.7071 6.29297L6.70711 0.292969L5.29289 1.70718L9.58579 6.00008L1 6.00008L1 8.00008L9.58579 8.00008Z" fill="currentColor"/>
+</svg></div></a></div><p id="w-node-ebe902d5-db00-f6b2-59c3-c222c63a78d4-4db2a974" class="text-size-large">In 2014 we started with a consumer product that reimagines the way people and businesses spend money online using ephemeral payment card numbers. In 2020 we launched an API on top of our transaction processing and core banking infrastructure. We made it available to other engineers, entrepreneurs, and creators through a simple, developer first API that is now used by some of the most innovative startups, fintech companies, and neobanks.</p></div></div></div><div class="product-header-pattern"><div class="bg-pattern w-embed"><svg width="100%" height="100%" viewBox="0 0 1470 662" preserveAspectRatio="xMidYMid slice" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path d="M733.292 977.435C626.656 977.481 519.342 969.015 412.155 951.66C304.967 934.306 197.917 908.073 91.7975 872.597C34.7716 853.538 -10.1672 812.571 -36.8206 761.948C-63.4739 711.325 -71.8419 651.024 -55.6914 593.274C-0.605486 396.229 80.8354 207.283 187.403 33.2204C293.971 -140.842 425.642 -300.009 581.189 -437.486C622.971 -474.403 678.126 -492.867 733.292 -492.867C788.458 -492.867 843.613 -474.403 885.396 -437.486C1040.94 -300.009 1172.63 -140.842 1279.18 33.2204C1385.75 207.283 1467.19 396.24 1522.28 593.274C1538.41 651.013 1530.06 711.314 1503.41 761.948C1476.75 812.582 1431.8 853.538 1374.79 872.597C1268.67 908.073 1161.62 934.306 1054.43 951.66C947.242 969.015 839.929 977.481 733.292 977.435Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.282 -492.868C782.055 -492.868 830.254 -477.973 869.086 -449.144C874.894 -444.831 880.496 -440.209 885.856 -435.267C916.137 -407.387 944.397 -377.745 970.029 -346.994C1074.24 -228.097 1164.66 -90.0824 1240.68 56.4434C1335.41 228.755 1407.8 414.303 1456.77 603.41C1467.56 645.784 1466.03 689.165 1454.54 728.885C1450.75 742.099 1445.78 754.935 1439.73 767.21C1415.31 816.952 1373.11 857.587 1319.17 877.779C1222.79 911.368 1125.15 936.341 1027.14 952.884C929.268 969.358 831.046 977.48 733.294 977.435C635.542 977.48 537.319 969.358 439.452 952.884C341.436 936.341 243.799 911.368 147.413 877.779C93.4865 857.599 51.291 816.963 26.853 767.221C20.8497 755.026 15.9024 742.282 12.126 729.16C0.555497 689.36 -1.0056 645.853 9.80727 603.375C58.7751 414.281 131.171 228.744 225.892 56.4434C301.961 -90.151 392.424 -228.222 496.708 -347.166C522.282 -377.871 550.485 -407.456 580.72 -435.29C585.977 -440.14 591.475 -444.682 597.169 -448.938C636.058 -477.916 684.372 -492.879 733.282 -492.879V-492.868Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.283 -492.867C782.848 -492.867 831.253 -477.057 869.741 -447.324C875.504 -442.874 881.036 -438.103 886.328 -433.035C916.195 -404.401 942.929 -373.112 965.358 -340.37C1056.54 -219.573 1135.66 -73.6652 1202.19 79.6904C1285.07 250.252 1348.41 432.391 1391.26 613.569C1400.7 654.891 1399.37 696.808 1389.31 735.132C1385.99 748.002 1381.55 760.507 1376.05 772.496C1353.85 821.345 1314.4 861.672 1263.56 882.974C1176.9 914.686 1088.7 938.39 999.84 954.131C911.294 969.736 822.162 977.492 733.295 977.458C644.416 977.492 555.284 969.736 466.75 954.131C377.893 938.401 289.692 914.686 203.028 882.974C152.189 861.672 112.749 821.357 90.5374 772.519C85.0851 760.598 80.6658 748.163 77.36 735.372C67.2358 696.968 65.8699 654.937 75.3283 613.5C118.167 432.345 181.517 250.229 264.404 79.6904C330.969 -73.7224 410.114 -219.676 501.369 -340.519C523.752 -373.215 550.44 -404.469 580.285 -433.07C585.485 -438.058 590.925 -442.748 596.584 -447.13C635.118 -476.988 683.638 -492.856 733.306 -492.856L733.283 -492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.294 -492.867C783.639 -492.867 832.251 -476.142 870.394 -445.517C876.111 -440.929 881.586 -436.021 886.797 -430.827C916.252 -401.438 941.47 -368.501 960.697 -333.769C1038.85 -211.073 1106.67 -57.2714 1163.68 102.914C1234.73 271.725 1289.03 450.466 1325.75 623.694C1333.84 663.974 1332.7 704.415 1324.08 741.344C1321.23 753.86 1317.3 766.044 1312.38 777.758C1292.41 825.716 1255.71 865.733 1207.95 888.156C1131.01 917.981 1052.23 940.426 972.531 955.356C893.317 970.091 813.277 977.481 733.282 977.447C653.288 977.481 573.247 970.079 494.033 955.356C414.337 940.426 335.559 917.981 258.618 888.156C210.867 865.745 174.17 825.738 154.197 777.804C149.295 766.147 145.393 754.02 142.557 741.562C133.88 704.553 132.709 663.997 140.824 623.614C177.544 450.398 231.85 271.702 302.891 102.937C359.94 -57.2942 427.79 -211.13 506.005 -333.872C525.186 -368.57 550.382 -401.495 579.813 -430.85C584.944 -435.975 590.339 -440.803 595.963 -445.334C634.153 -476.062 682.857 -492.845 733.294 -492.845V-492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.295 -492.867C784.432 -492.867 833.251 -475.215 871.05 -443.709C876.72 -438.984 882.138 -433.939 887.28 -428.608C916.321 -398.463 940.025 -363.868 956.037 -327.168C1021.18 -202.573 1077.68 -40.8776 1125.2 126.137C1184.4 293.198 1229.65 468.53 1260.26 633.829C1266.99 673.058 1266.04 712.035 1258.87 747.568C1256.5 759.74 1253.09 771.603 1248.73 783.021C1230.99 830.086 1197.03 869.783 1152.37 893.327C1085.16 921.264 1015.81 942.451 945.271 956.568C875.377 970.434 804.428 977.458 733.306 977.435C662.196 977.458 591.247 970.422 521.342 956.568C450.817 942.451 381.452 921.264 314.244 893.327C269.581 869.794 235.639 830.108 217.881 783.066C213.542 771.684 210.145 759.866 207.791 747.739C200.56 712.126 199.584 673.046 206.345 633.704C236.947 468.427 282.196 293.153 341.403 126.149C388.947 -40.9119 445.479 -202.63 510.667 -327.248C526.656 -363.948 550.337 -398.532 579.366 -428.642C584.44 -433.905 589.777 -438.881 595.356 -443.549C633.189 -475.147 682.089 -492.845 733.306 -492.845L733.295 -492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.284 -492.867C785.202 -492.867 834.227 -474.3 871.694 -441.901C877.318 -437.039 882.678 -431.857 887.741 -426.389C916.368 -395.5 938.545 -359.246 951.367 -320.556C1003.48 -194.05 1048.68 -24.4725 1086.7 149.361C1134.06 314.671 1170.26 486.594 1194.74 643.954C1200.13 682.141 1199.36 719.631 1193.62 753.78C1191.73 765.597 1188.84 777.14 1185.04 788.272C1169.52 834.444 1138.32 873.833 1096.73 898.486C1039.25 924.536 979.317 944.464 917.952 957.781C857.38 970.765 795.521 977.446 733.284 977.424C671.047 977.446 609.189 970.765 548.616 957.781C487.251 944.464 427.321 924.547 369.836 898.486C328.272 873.844 297.073 834.479 281.543 788.329C277.755 777.22 274.885 765.712 272.991 753.917C267.206 719.688 266.425 682.084 271.832 643.794C296.316 486.457 332.508 314.603 379.869 149.361C417.897 -24.5182 463.135 -194.119 515.282 -320.636C528.069 -359.326 550.246 -395.58 578.885 -426.457C583.89 -431.857 589.181 -436.971 594.726 -441.787C632.215 -474.266 681.297 -492.867 733.284 -492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.291 -492.867C786.001 -492.867 835.232 -473.385 872.354 -440.082C877.933 -435.083 883.225 -429.763 888.229 -424.158C916.444 -392.514 937.105 -354.602 946.713 -313.932C985.798 -185.527 1019.69 -8.05583 1048.21 172.607C1083.73 336.168 1110.88 504.681 1129.23 654.113C1133.28 691.248 1132.71 727.273 1128.4 760.026C1126.97 771.5 1124.61 782.712 1121.37 793.568C1108.07 838.849 1079.62 877.928 1041.14 903.703C993.374 927.876 942.879 946.535 890.674 959.039C839.422 971.154 786.655 977.469 733.302 977.458C679.95 977.469 627.182 971.154 575.93 959.039C523.725 946.535 473.219 927.876 425.468 903.703C386.992 877.94 358.548 838.894 345.244 793.637C342.019 782.792 339.654 771.592 338.242 760.129C333.903 727.296 333.318 691.167 337.37 653.918C355.736 504.521 382.883 336.087 418.397 172.619C446.922 -8.07868 480.841 -185.562 519.949 -313.977C529.545 -354.67 550.207 -392.594 578.444 -424.226C583.391 -429.763 588.626 -435.026 594.135 -439.98C631.269 -473.328 680.558 -492.845 733.314 -492.845L733.291 -492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.29 -492.867C786.78 -492.867 836.23 -472.458 872.996 -438.275C878.518 -433.138 883.763 -427.681 888.688 -421.95C916.489 -389.551 935.624 -349.991 942.04 -307.342C968.097 -177.039 990.698 8.32657 1009.71 195.82C1033.39 357.629 1051.49 522.745 1063.73 664.237C1066.42 700.331 1066.04 734.88 1063.16 766.238C1062.21 777.358 1060.37 788.249 1057.69 798.82C1046.61 843.207 1020.92 881.967 985.51 908.863C947.481 931.148 906.399 948.549 863.366 960.252C821.434 971.498 777.758 977.447 733.29 977.447C688.81 977.447 645.145 971.498 603.214 960.263C560.181 948.571 519.099 931.16 481.07 908.874C445.681 882.001 419.992 843.265 408.904 798.911C406.229 788.34 404.381 777.449 403.44 766.318C400.547 734.881 400.157 700.228 402.866 664.02C415.102 522.562 433.204 357.549 456.884 195.842C475.905 8.32655 498.517 -177.05 524.585 -307.354C530.979 -350.037 550.137 -389.631 577.972 -422.03C582.851 -427.716 588.039 -433.115 593.503 -438.206C630.292 -472.424 679.765 -492.867 733.29 -492.867Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.291 -492.868C787.573 -492.868 837.218 -471.543 873.651 -436.468C879.127 -431.194 884.315 -425.6 889.159 -419.731C916.547 -386.589 934.167 -345.37 937.369 -300.73C950.397 -168.528 961.692 24.7312 971.197 219.054C983.043 379.113 992.088 540.82 998.206 674.373C999.549 709.414 999.365 742.499 997.93 772.461C997.46 783.237 996.128 793.808 994.016 804.081C985.166 847.577 962.22 886.027 929.908 914.044C901.602 934.442 869.944 950.584 836.07 961.475C803.459 971.852 768.886 977.446 733.279 977.434C697.684 977.434 663.099 971.84 630.488 961.475C596.615 950.584 564.956 934.442 536.65 914.044C504.349 886.05 481.415 847.634 472.553 804.173C470.43 793.877 469.11 783.295 468.639 772.495C467.193 742.453 466.998 709.265 468.352 674.11C474.47 540.591 483.527 378.999 495.362 219.054C504.866 24.7198 516.172 -168.539 529.212 -300.742C532.415 -345.427 550.069 -386.68 577.491 -419.845C582.301 -425.668 587.443 -431.205 592.872 -436.445C629.306 -471.543 678.974 -492.879 733.268 -492.879L733.291 -492.868Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M733.292 977.435C678.229 977.435 628.365 955.184 592.277 919.227C556.188 883.271 533.873 833.575 533.873 778.685C533.873 644.583 533.873 443.431 533.873 242.29C533.873 41.137 533.873 -160.016 533.873 -294.106C533.873 -348.984 556.199 -398.68 592.277 -434.648C628.354 -470.616 678.217 -492.867 733.292 -492.867C788.355 -492.867 838.218 -470.616 874.307 -434.66C910.395 -398.703 932.71 -349.007 932.71 -294.117C932.71 -160.016 932.71 41.137 932.71 242.278C932.71 443.431 932.71 644.583 932.71 778.674C932.71 833.552 910.384 883.248 874.307 919.216C838.229 955.184 788.366 977.435 733.292 977.435Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M601.686 -347.955C633.769 -383.362 680.877 -405.934 733.277 -405.934C785.677 -405.934 832.797 -383.374 864.868 -347.955C896.951 -313.84 916.786 -267.256 916.786 -215.832C916.786 -89.43 916.786 98.1316 916.786 285.693C916.786 473.301 916.786 660.908 916.786 787.333C916.786 838.757 896.951 885.353 864.868 919.456C832.785 954.863 785.677 977.435 733.277 977.435C680.877 977.435 633.757 954.875 601.686 919.456C569.603 885.341 549.768 838.757 549.768 787.333C549.768 660.931 549.768 473.369 549.768 285.808C549.768 98.2003 549.768 -89.4071 549.768 -215.832C549.768 -267.256 569.603 -313.852 601.686 -347.955Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M611.112 -261.261C639.178 -296.12 683.554 -319 733.291 -319C783.028 -319 827.393 -296.12 855.469 -261.261C883.535 -229.012 900.902 -185.516 900.902 -137.559C900.902 -18.8671 900.902 155.115 900.902 329.097C900.902 503.079 900.902 677.222 900.902 795.982C900.902 843.939 883.546 887.446 855.469 919.696C827.404 954.554 783.028 977.435 733.291 977.435C683.554 977.435 639.189 954.554 611.112 919.696C583.047 887.446 565.68 843.951 565.68 795.994C565.68 677.302 565.68 503.32 565.68 329.338C565.68 155.275 565.68 -18.787 565.68 -137.547C565.68 -185.505 583.036 -229.012 611.112 -261.261Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M620.527 -174.556C644.587 -208.854 686.219 -232.054 733.282 -232.054C780.344 -232.054 821.977 -208.854 846.037 -174.556C870.096 -144.16 884.972 -103.764 884.972 -59.2735C884.972 51.7191 884.972 212.11 884.972 372.513C884.972 533.03 884.972 693.547 884.972 804.643C884.972 849.145 870.096 889.552 846.037 919.948C821.977 954.246 780.344 977.446 733.282 977.446C686.219 977.446 644.587 954.246 620.527 919.948C596.468 889.552 581.592 849.156 581.592 804.666C581.592 693.673 581.592 533.282 581.592 372.879C581.592 212.476 581.592 51.8449 581.592 -59.2506C581.592 -103.753 596.468 -144.16 620.527 -174.556Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M629.954 -87.8628C650.007 -121.6 688.897 -145.121 733.296 -145.121C777.695 -145.121 816.585 -121.611 836.638 -87.8628C856.691 -59.331 869.088 -22.0246 869.088 18.9999C869.088 122.293 869.088 269.094 869.088 415.917C869.088 562.889 869.088 709.86 869.088 813.291C869.088 854.327 856.691 891.645 836.638 920.177C816.585 953.914 777.695 977.435 733.296 977.435C688.897 977.435 650.007 953.925 629.954 920.177C609.901 891.645 597.504 854.338 597.504 813.314C597.504 710.021 597.504 563.22 597.504 416.397C597.504 269.425 597.504 122.453 597.504 19.0227C597.504 -22.0132 609.901 -59.331 629.954 -87.8628Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M639.363 -1.1575C655.399 -34.3454 691.545 -58.1753 733.281 -58.1753C775.018 -58.1753 811.164 -34.3454 827.2 -1.1575C843.235 25.521 853.164 59.7271 853.164 97.2967C853.164 192.891 853.164 326.1 853.164 459.332C853.164 592.759 853.164 726.197 853.164 821.94C853.164 859.51 843.247 893.727 827.2 920.417C811.164 953.605 775.018 977.435 733.281 977.435C691.545 977.435 655.399 953.605 639.363 920.417C623.328 893.739 613.399 859.533 613.399 821.963C613.399 726.369 613.399 593.16 613.399 459.927C613.399 326.695 613.399 193.062 613.399 97.3195C613.399 59.75 623.316 25.5324 639.363 -1.1575Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M648.784 85.5361C660.814 52.9087 694.217 28.7585 733.29 28.7585C772.352 28.7585 805.766 52.9087 817.796 85.5361C829.825 110.361 837.263 141.467 837.263 175.57C837.263 263.465 837.263 383.095 837.263 502.736C837.263 622.378 837.263 742.511 837.263 830.589C837.263 864.703 829.825 895.821 817.796 920.657C805.766 953.285 772.363 977.435 733.29 977.435C694.228 977.435 660.814 953.285 648.796 920.657C636.766 895.832 629.328 864.726 629.328 830.623C629.328 742.728 629.328 623.098 629.328 503.457C629.328 383.816 629.328 263.682 629.328 175.605C629.328 141.49 636.755 110.373 648.784 85.5361Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M658.205 172.241C666.229 140.175 696.888 115.704 733.287 115.704C769.685 115.704 800.345 140.163 808.368 172.241C816.392 195.202 821.351 223.219 821.351 253.856C821.351 334.04 821.351 440.09 821.351 546.152C821.351 652.214 821.351 758.836 821.351 839.249C821.351 869.897 816.392 897.926 808.368 920.909C800.345 952.976 769.685 977.447 733.287 977.447C696.888 977.447 666.229 952.987 658.205 920.909C650.181 897.949 645.223 869.932 645.223 839.295C645.223 759.111 645.223 653.06 645.223 546.999C645.223 440.674 645.223 334.314 645.223 253.901C645.223 223.253 650.181 195.225 658.205 172.241Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M667.62 258.935C671.626 227.417 699.553 202.638 733.278 202.638C767.013 202.638 794.929 227.417 798.935 258.935C802.941 280.042 805.421 304.959 805.421 332.129C805.421 404.614 805.421 497.074 805.421 589.556C805.421 682.038 805.421 775.15 805.421 847.898C805.421 875.091 802.941 900.019 798.935 921.138C794.929 952.656 767.002 977.435 733.278 977.435C699.542 977.435 671.626 952.656 667.62 921.138C663.614 900.031 661.135 875.114 661.135 847.944C661.135 775.459 661.135 682.999 661.135 590.517C661.135 497.737 661.135 404.923 661.135 332.175C661.135 304.982 663.614 280.054 667.62 258.935Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M789.537 345.64C789.537 314.681 764.355 289.583 733.292 289.583C702.228 289.583 677.046 314.681 677.046 345.64L677.046 921.39C677.046 952.349 702.228 977.447 733.292 977.447C764.355 977.447 789.537 952.349 789.537 921.39L789.537 345.64Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+</g>
+</svg></div></div><div class="gradient-white"></div></section></div><section class="section relative"><div class="padding-global padding-section-medium"><div class="container-medium"><div class="layout-2-col tablet-1-col"><div id="w-node-befa4a6f-f93f-455d-45d9-c838b550d4d2-4db2a974" class="flex-vertical-left"><div><h2 class="heading-style-h1 max-width-medium">Our Values</h2></div></div><div id="w-node-_609c6107-b8d3-0a6b-2377-a92b52e92e9f-4db2a974" class="accordian_list"><div class="margin-bottom margin-xlarge"><div class="w-layout-grid accordian_list-grid"><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Be a Good Neighbor</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><p>The best neighbors make each other feel welcome, proactively share helpful information and always try to make things better. We aim to build an accepting and inclusive workplace and invite new and different ideas to improve our community, our company, and ourselves.</p></div></div></div></div><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Build a great neighborhood</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><div class="text-rich-text w-richtext"><p>At the core of a great neighborhood are relationships. By maintaining an accepting and inclusive workplace, we invite new and different ideas to improve our community, our company, and ourselves.</p><p>To build a great neighborhood…</p><ul role="list"><li>Create an inclusive environment. Be yourself and help others to do the same. Seek out different opinions and perspectives, and always make sure our environment fosters belonging.</li><li>We&#x27;re in this together. Success never rests on any individual member of our team. Through collaboration, we can build great things.</li><li>Align on the vision. We&#x27;re one team with one shared dream. Work hard to find the right direction to go, root for each other, and rally behind the decisions we make along the way.</li></ul></div></div></div></div></div><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Ask why, learn why</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><p>We are a high trust and high performance environment. No one at the company should bat an eye if you have to step out during the middle of the day to run an errand. At the same time, we have high standards and sometimes that means working nights or weekends to deliver on our brand promise and goals.</p></div></div></div></div><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Empower others</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><p>We can both move quickly and deliver excellence by being really disciplined about scoping projects. We should be skeptical of projects that take longer than a month - if you see them, ask if we can break them down. There won’t always be a way, but often you’ll be surprised.</p></div></div></div></div><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Think like an owner</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><p>We understand the ‘why’ behind what we’re doing and make adjustments accordingly.<br/><br/>Processes and testing aren’t a substitute for intuition, curiosity, and critical thinking.</p></div></div></div></div><div class="accordion"><div class="accordian_question is-larger"><div class="heading-style-h3">Do the thing</div><div class="faq_icon is-large"><div class="icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 15" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00008 9.08611L1.70718 3.79321L0.292969 5.20743L6.29297 11.2074C6.68349 11.598 7.31666 11.598 7.70718 11.2074L13.7072 5.20743L12.293 3.79321L7.00008 9.08611Z" fill="currentColor"/>
+</g>
+</svg></div></div></div><div class="accordian_answer"><div class="margin-bottom margin-small"><div class="max-width-large"><p>We’re deliberate about passive visibility and sharing our knowledge to build leverage. Work product and communication are default public - we prefer public Slack channels and shared GDrives and utilize public email lists when possible.</p></div></div></div></div></div></div><div class="team-quote-wrapper"><div class="quote-text-max-width"><div class="vertical-left"><div class="text-size-large">Values help us focus our vision and align ourselves with one another. It also gives a clearer meaning to our work.<br/><br/>— Susan Xu, Disputes and Operations</div></div></div><img loading="lazy" src="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/669fb74007a2fb8f4db2a989_susan%20xu.webp" alt="Susan xu" class="susan-xu"/></div></div></div></div></div></section><section class="section relative"><div class="padding-global padding-section-medium"><div class="container-medium"><div class="layout-2-col tablet-1-col"><div id="w-node-_48c62f64-1312-d609-de86-2011f4a8b9da-4db2a974" class="flex-vertical-left"><h2 class="heading-style-h1 max-width-medium">Benefits</h2></div><div id="w-node-e357ecfd-305d-b5c5-140c-add788a5bda7-4db2a974" class="w-layout-grid benefits-list"><div id="w-node-e357ecfd-305d-b5c5-140c-add788a5bda8-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Competitive Comp &amp; Equity</h3><div class="benefits-text-wrapper"><p>There are big things in our future, so we include equity in all of our full time offer packages because we want every employee to feel tied to what we&#x27;re working towards.</p></div></div><div id="w-node-b05d2a5d-55ce-1ca0-fc0a-a423c594d84d-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Flexible PTO</h3><div class="benefits-text-wrapper"><p>We want you to bring your best self to work everyday and a huge part of that is making sure you take time off to recharge.</p></div></div><div id="w-node-_20e8ff14-7b4a-6091-2228-b7eb3018917a-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">401K Matching</h3><div class="benefits-text-wrapper"><p>We&#x27;re an early stage start up, but we&#x27;re thinking long term, and our matching program will help you save for the future.</p></div></div><div id="w-node-_92ad13fa-4133-95ee-cf78-97b8510b5362-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Remote Friendly</h3><div class="benefits-text-wrapper"><p>Since we were founded, we&#x27;ve supported our employees in working from wherever they need to be. We Slack a lot, just ask our 1,000+ custom emojis.</p></div></div><div id="w-node-_5d79564c-d7b3-dd47-40b4-5f31379f5f85-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Get 3% Cash Back</h3><div class="benefits-text-wrapper"><p>If you&#x27;re working here, we hope you believe in our consumer product <a href="https://privacy.com/" target="_blank" class="text-link-purple">Privacy.com</a>. Enjoy 3% cash back on purchases made on Privacy cards.</p></div></div><div id="w-node-_74de8c2d-9465-026a-9881-c09c2c447b56-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Health Insurance</h3><div class="benefits-text-wrapper"><p>Making sure our team is healthy and cared for is important to us. We support you and your family with full vision and dental coverage, and contribute to health insurance costs.</p></div></div><div id="w-node-_1da553e2-b783-017e-a47a-9bb2240f20e8-4db2a974" class="benefits-list-item"><h3 class="heading-style-h4">Family Leave</h3><div class="benefits-text-wrapper"><p>This goes back to supporting our teammates as whole people, not just employees. We offer 12 weeks of paid family leave for new parents, and for other family support reasons.</p></div></div></div></div></div></div></section><section id="job-openings" class="section relative"><div class="padding-global padding-section-medium"><div class="container-medium"><div class="layout-2-col tablet-1-col"><div id="w-node-a23fb4a3-d5c4-3805-b9e3-ce2cd89b986e-4db2a974" class="flex-vertical-left"><h2 class="heading-style-h1 max-width-medium">Job Openings</h2></div><div id="w-node-_6a3dc983-098e-0091-cb8f-309dd7fb64bb-4db2a974" class="split-section-content"><div class="gh-list-wrapper"><div class="gh-wrapper"><main class="main"><div id="loading" class="loading-container"><div class="loading-animation" data-w-id="6a3dc983-098e-0091-cb8f-309dd7fb64c0" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/638906aa2dc1ae73131fcfe1/638906aa2dc1ae06341fcff0_90464-loading.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="1" data-duration="0"></div></div><div id="root" class="root"><div class="container"><div class="gh-form-block w-form"><form id="email-form" name="email-form" data-name="Email Form" method="get" class="gh-form" data-wf-page-id="669fb74007a2fb8f4db2a974" data-wf-element-id="6a3dc983-098e-0091-cb8f-309dd7fb64c4" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e"><select id="filter" name="field" data-name="Field" class="gh-form-select w-select"><option value="all">All Teams</option></select><input type="submit" data-wait="Please wait..." class="gh-form-submit-button w-button" value="Submit"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div></main><div class="gh-hidden"><section id="section" class="department-section"><div class="container"></div></section></div><div class="gh-hidden"><section id="job" class="gh-section"><div class="container is-careers"><div id="listing" class="job-listing"><a href="careers#" class="job-title">Text Link</a><div class="job-title-arrow w-embed"><svg width="100%" height="100%" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.5 16.5L19 9L11.5 1.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 9H19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="job-location">This is some text inside of a div block.</div></div><h2 id="dname" class="gh-department-heading">Department</h2></div></section></div></div></div><div id="w-node-bf7671f3-f329-fe57-918e-5e62ff561876-4db2a974" class="flex-vertical-left"><div class="spacer-medium"></div><a id="w-node-_54a2a890-304a-c30a-b90a-5536f27e667c-4db2a974" href="https://boards.greenhouse.io/lithic" target="_blank" class="button is-purple w-inline-block"><div>All Job Openings</div><div class="button-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 14 14" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.58579 8.00008L5.29289 12.293L6.70711 13.7072L12.7071 7.70718C13.0976 7.31666 13.0976 6.68349 12.7071 6.29297L6.70711 0.292969L5.29289 1.70718L9.58579 6.00008L1 6.00008L1 8.00008L9.58579 8.00008Z" fill="currentColor"/>
+</svg></div></a></div></div></div></div></div></section><section class="section background-color-lightpurple relative"><div class="padding-global padding-section-medium z-index-2"><div class="max-width-large align-center margin-custom"><p class="text-size-large">Want to join but don&#x27;t see the role you&#x27;re looking for? We&#x27;re growing fast and are probably looking for people like you.<br/><br/>Shoot us an email at <a href="mailto:jobs@lithic.com" class="text-link-purple">jobs@lithic.com</a> and let us know why you want to work here and what you&#x27;d like to do. If an opportunity comes up that matches your skills and abilities, we&#x27;ll reach out!</p></div></div><div class="bg-pattern-holder"><div class="bg-pattern w-embed"><svg width="100%" height="100%" viewBox="0 0 1470 402" preserveAspectRatio="xMidYMid slice" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+<g opacity="0.2">
+<path d="M732.792 933.935C626.156 933.981 518.842 925.515 411.655 908.16C304.467 890.805 197.417 864.573 91.2975 829.097C34.2716 810.038 -10.6672 769.071 -37.3206 718.448C-63.9739 667.825 -72.3419 607.524 -56.1914 549.774C-1.10549 352.728 80.3354 163.782 186.903 -10.2798C293.471 -184.342 425.142 -343.509 580.689 -480.986C622.471 -517.903 677.626 -536.368 732.792 -536.368C787.958 -536.368 843.113 -517.903 884.896 -480.986C1040.44 -343.509 1172.13 -184.342 1278.68 -10.2798C1385.25 163.782 1466.69 352.74 1521.78 549.774C1537.91 607.512 1529.56 667.814 1502.91 718.448C1476.25 769.082 1431.3 810.038 1374.29 829.097C1268.17 864.573 1161.12 890.805 1053.93 908.16C946.742 925.515 839.429 933.981 732.792 933.935Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.782 -536.368C781.555 -536.368 829.754 -521.473 868.586 -492.644C874.394 -488.331 879.996 -483.709 885.356 -478.767C915.637 -450.887 943.897 -421.245 969.529 -390.494C1073.74 -271.597 1164.16 -133.582 1240.18 12.9434C1334.91 185.255 1407.3 370.803 1456.27 559.91C1467.06 602.284 1465.53 645.665 1454.04 685.385C1450.25 698.599 1445.28 711.435 1439.23 723.71C1414.81 773.452 1372.61 814.087 1318.67 834.279C1222.29 867.868 1124.65 892.841 1026.64 909.384C928.768 925.858 830.546 933.98 732.794 933.935C635.042 933.98 536.819 925.858 438.952 909.384C340.936 892.841 243.299 867.868 146.913 834.279C92.9865 814.099 50.791 773.463 26.353 723.721C20.3497 711.526 15.4024 698.782 11.626 685.66C0.0554966 645.86 -1.5056 602.353 9.30727 559.875C58.2751 370.781 130.671 185.244 225.392 12.9434C301.461 -133.651 391.924 -271.722 496.208 -390.666C521.782 -421.371 549.985 -450.956 580.22 -478.79C585.477 -483.64 590.975 -488.182 596.669 -492.438C635.558 -521.416 683.872 -536.379 732.782 -536.379V-536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.783 -536.368C782.348 -536.368 830.753 -520.557 869.241 -490.824C875.004 -486.374 880.536 -481.604 885.828 -476.536C915.695 -447.901 942.429 -416.612 964.858 -383.87C1056.04 -263.073 1135.16 -117.165 1201.69 36.1901C1284.57 206.752 1347.91 388.891 1390.76 570.069C1400.2 611.391 1398.87 653.307 1388.81 691.632C1385.49 704.502 1381.05 717.006 1375.55 728.996C1353.35 777.845 1313.9 818.172 1263.06 839.473C1176.4 871.185 1088.2 894.89 999.34 910.631C910.794 926.236 821.662 933.992 732.795 933.958C643.916 933.992 554.784 926.236 466.25 910.631C377.393 894.901 289.192 871.185 202.528 839.473C151.689 818.172 112.249 777.857 90.0374 729.018C84.5851 717.098 80.1658 704.662 76.86 691.872C66.7358 653.468 65.3699 611.436 74.8283 570C117.667 388.845 181.017 206.729 263.904 36.1901C330.469 -117.223 409.614 -263.176 500.869 -384.019C523.252 -416.715 549.94 -447.969 579.785 -476.57C584.985 -481.558 590.425 -486.248 596.084 -490.63C634.618 -520.489 683.138 -536.356 732.806 -536.356L732.783 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.794 -536.368C783.139 -536.368 831.751 -519.642 869.894 -489.017C875.611 -484.429 881.086 -479.521 886.297 -474.328C915.752 -444.938 940.97 -412.002 960.197 -377.269C1038.35 -254.573 1106.17 -100.772 1163.18 59.4137C1234.23 228.225 1288.53 406.966 1325.25 580.193C1333.34 620.474 1332.2 660.915 1323.58 697.844C1320.73 710.36 1316.8 722.543 1311.88 734.258C1291.91 782.215 1255.21 822.233 1207.45 844.656C1130.51 874.48 1051.73 896.926 972.031 911.855C892.817 926.59 812.777 933.981 732.782 933.946C652.788 933.981 572.747 926.579 493.533 911.855C413.837 896.926 335.059 874.48 258.118 844.656C210.367 822.245 173.67 782.238 153.697 734.304C148.795 722.646 144.893 710.52 142.057 698.061C133.38 661.052 132.209 620.497 140.324 580.113C177.044 406.898 231.35 228.202 302.391 59.4366C359.44 -100.794 427.29 -254.631 505.505 -377.372C524.686 -412.07 549.882 -444.995 579.313 -474.35C584.444 -479.476 589.839 -484.303 595.463 -488.834C633.653 -519.562 682.357 -536.345 732.794 -536.345V-536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.795 -536.368C783.932 -536.368 832.751 -518.715 870.55 -487.209C876.22 -482.484 881.638 -477.439 886.78 -472.108C915.821 -441.963 939.525 -407.368 955.537 -370.668C1020.68 -246.073 1077.18 -84.3779 1124.7 82.6372C1183.9 249.698 1229.15 425.03 1259.76 590.329C1266.49 629.558 1265.54 668.534 1258.37 704.067C1256 716.24 1252.59 728.103 1248.23 739.521C1230.49 786.585 1196.53 826.283 1151.87 849.827C1084.66 877.764 1015.31 898.951 944.771 913.068C874.877 926.933 803.928 933.958 732.806 933.935C661.696 933.958 590.747 926.922 520.842 913.068C450.317 898.951 380.952 877.764 313.744 849.827C269.081 826.294 235.139 786.608 217.381 739.566C213.042 728.183 209.645 716.366 207.291 704.239C200.06 668.626 199.084 629.546 205.845 590.203C236.447 424.927 281.696 249.652 340.903 82.6487C388.447 -84.4122 444.979 -246.13 510.167 -370.748C526.156 -407.448 549.837 -442.032 578.866 -472.143C583.94 -477.405 589.277 -482.382 594.856 -487.049C632.689 -518.647 681.589 -536.345 732.806 -536.345L732.795 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.784 -536.368C784.702 -536.368 833.727 -517.8 871.194 -485.402C876.818 -480.54 882.178 -475.357 887.241 -469.889C915.868 -439 938.045 -402.746 950.867 -364.056C1002.98 -237.55 1048.18 -67.9727 1086.2 105.861C1133.56 271.171 1169.76 443.094 1194.24 600.454C1199.63 638.641 1198.86 676.13 1193.12 710.279C1191.23 722.097 1188.34 733.64 1184.54 744.771C1169.02 790.944 1137.82 830.333 1096.23 854.986C1038.75 881.035 978.817 900.964 917.452 914.28C856.88 927.265 795.021 933.946 732.784 933.923C670.547 933.946 608.689 927.265 548.116 914.28C486.751 900.964 426.821 881.047 369.336 854.986C327.772 830.344 296.573 790.978 281.043 744.829C277.255 733.72 274.385 722.211 272.491 710.417C266.706 676.188 265.925 638.584 271.332 600.294C295.816 442.957 332.008 271.103 379.369 105.861C417.397 -68.0185 462.635 -237.619 514.782 -364.136C527.569 -402.827 549.746 -439.08 578.385 -469.957C583.39 -475.357 588.681 -480.471 594.226 -485.287C631.715 -517.766 680.797 -536.368 732.784 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.791 -536.368C785.501 -536.368 834.732 -516.885 871.854 -483.583C877.433 -478.583 882.725 -473.264 887.729 -467.658C915.944 -436.014 936.605 -398.102 946.213 -357.432C985.298 -229.027 1019.19 -51.5561 1047.71 129.107C1083.23 292.667 1110.38 461.181 1128.73 610.613C1132.78 647.747 1132.21 683.772 1127.9 716.526C1126.47 728 1124.11 739.211 1120.87 750.068C1107.57 795.348 1079.12 834.428 1040.64 860.203C992.874 884.376 942.379 903.035 890.174 915.539C838.922 927.654 786.155 933.969 732.802 933.958C679.45 933.969 626.682 927.654 575.43 915.539C523.225 903.035 472.719 884.376 424.968 860.203C386.492 834.439 358.048 795.394 344.744 750.137C341.519 739.292 339.154 728.092 337.742 716.629C333.403 683.795 332.818 647.667 336.87 610.418C355.236 461.021 382.383 292.587 417.897 129.119C446.422 -51.5789 480.341 -229.062 519.449 -357.478C529.045 -398.17 549.707 -436.095 577.944 -467.727C582.891 -473.264 588.126 -478.526 593.635 -483.48C630.769 -516.828 680.058 -536.345 732.814 -536.345L732.791 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.79 -536.368C786.28 -536.368 835.73 -515.958 872.496 -481.775C878.018 -476.639 883.263 -471.182 888.188 -465.45C915.989 -433.051 935.124 -393.491 941.54 -350.842C967.597 -220.539 990.198 -35.1737 1009.21 152.319C1032.89 314.129 1050.99 479.245 1063.23 620.737C1065.92 656.831 1065.54 691.38 1062.66 722.738C1061.71 733.858 1059.87 744.749 1057.19 755.319C1046.11 799.707 1020.42 838.467 985.01 865.362C946.981 887.648 905.899 905.048 862.866 916.752C820.934 927.997 777.258 933.946 732.79 933.946C688.31 933.946 644.645 927.997 602.714 916.763C559.681 905.071 518.599 887.659 480.57 865.374C445.181 838.501 419.492 799.764 408.404 755.411C405.729 744.84 403.881 733.949 402.94 722.818C400.047 691.38 399.657 656.728 402.366 620.52C414.602 479.062 432.704 314.049 456.384 152.342C475.405 -35.1737 498.017 -220.55 524.085 -350.854C530.479 -393.537 549.637 -433.132 577.472 -465.53C582.351 -471.216 587.539 -476.616 593.003 -481.707C629.792 -515.924 679.265 -536.368 732.79 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.791 -536.368C787.073 -536.368 836.718 -515.043 873.151 -479.968C878.627 -474.694 883.815 -469.1 888.659 -463.231C916.047 -430.089 933.667 -388.87 936.869 -344.23C949.897 -212.028 961.192 -18.7688 970.697 175.554C982.543 335.613 991.588 497.32 997.706 630.873C999.049 665.914 998.865 698.999 997.43 728.961C996.96 739.737 995.628 750.308 993.516 760.581C984.666 804.077 961.72 842.527 929.408 870.544C901.102 890.942 869.444 907.084 835.57 917.975C802.959 928.352 768.386 933.946 732.779 933.934C697.184 933.934 662.599 928.34 629.988 917.975C596.115 907.084 564.456 890.942 536.15 870.544C503.849 842.55 480.915 804.134 472.053 760.673C469.93 750.377 468.61 739.795 468.139 728.995C466.693 698.953 466.498 665.765 467.852 630.61C473.97 497.091 483.027 335.499 494.862 175.554C504.366 -18.7802 515.672 -212.039 528.712 -344.242C531.915 -388.927 549.569 -430.18 576.991 -463.345C581.801 -469.168 586.943 -474.705 592.372 -479.945C628.806 -515.043 678.474 -536.379 732.768 -536.379L732.791 -536.368Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M732.792 933.935C677.729 933.935 627.865 911.684 591.777 875.727C555.688 839.771 533.373 790.075 533.373 735.185C533.373 601.083 533.373 399.93 533.373 198.789C533.373 -2.36326 533.373 -203.516 533.373 -337.606C533.373 -392.485 555.699 -442.181 591.777 -478.149C627.854 -514.117 677.717 -536.368 732.792 -536.368C787.855 -536.368 837.718 -514.117 873.807 -478.16C909.895 -442.204 932.21 -392.508 932.21 -337.618C932.21 -203.516 932.21 -2.36326 932.21 198.778C932.21 399.93 932.21 601.083 932.21 735.173C932.21 790.052 909.884 839.748 873.807 875.716C837.729 911.684 787.866 933.935 732.792 933.935Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M601.186 -391.455C633.269 -426.862 680.377 -449.434 732.777 -449.434C785.177 -449.434 832.297 -426.874 864.368 -391.455C896.451 -357.34 916.286 -310.756 916.286 -259.332C916.286 -132.93 916.286 54.6319 916.286 242.194C916.286 429.801 916.286 617.408 916.286 743.834C916.286 795.257 896.451 841.853 864.368 875.956C832.285 911.364 785.177 933.935 732.777 933.935C680.377 933.935 633.257 911.375 601.186 875.956C569.103 841.842 549.268 795.257 549.268 743.834C549.268 617.431 549.268 429.87 549.268 242.308C549.268 54.7006 549.268 -132.907 549.268 -259.332C549.268 -310.756 569.103 -357.352 601.186 -391.455Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M610.612 -304.761C638.678 -339.62 683.054 -362.5 732.791 -362.5C782.528 -362.5 826.893 -339.62 854.969 -304.761C883.035 -272.512 900.402 -229.016 900.402 -181.059C900.402 -62.3671 900.402 111.615 900.402 285.597C900.402 459.579 900.402 633.722 900.402 752.482C900.402 800.439 883.046 843.946 854.969 876.196C826.904 911.054 782.528 933.935 732.791 933.935C683.054 933.935 638.689 911.054 610.612 876.196C582.547 843.946 565.18 800.451 565.18 752.494C565.18 633.802 565.18 459.82 565.18 285.838C565.18 111.775 565.18 -62.287 565.18 -181.047C565.18 -229.005 582.536 -272.512 610.612 -304.761Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M620.027 -218.056C644.087 -252.354 685.719 -275.555 732.782 -275.555C779.844 -275.555 821.477 -252.354 845.537 -218.056C869.596 -187.66 884.472 -147.265 884.472 -102.774C884.472 8.21881 884.472 168.61 884.472 329.013C884.472 489.53 884.472 650.047 884.472 761.142C884.472 805.645 869.596 846.051 845.537 876.448C821.477 910.745 779.844 933.946 732.782 933.946C685.719 933.946 644.087 910.745 620.027 876.448C595.968 846.051 581.092 805.656 581.092 761.165C581.092 650.173 581.092 489.781 581.092 329.379C581.092 168.976 581.092 8.34465 581.092 -102.751C581.092 -147.253 595.968 -187.66 620.027 -218.056Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M629.454 -131.363C649.507 -165.1 688.397 -188.621 732.796 -188.621C777.195 -188.621 816.085 -165.111 836.138 -131.363C856.191 -102.831 868.588 -65.5243 868.588 -24.4999C868.588 78.7934 868.588 225.594 868.588 372.417C868.588 519.389 868.588 666.361 868.588 769.791C868.588 810.827 856.191 848.145 836.138 876.677C816.085 910.414 777.195 933.935 732.796 933.935C688.397 933.935 649.507 910.425 629.454 876.677C609.401 848.145 597.004 810.839 597.004 769.814C597.004 666.521 597.004 519.721 597.004 372.897C597.004 225.926 597.004 78.9536 597.004 -24.477C597.004 -65.5129 609.401 -102.831 629.454 -131.363Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M638.863 -44.6575C654.899 -77.8454 691.045 -101.675 732.781 -101.675C774.518 -101.675 810.664 -77.8454 826.7 -44.6575C842.735 -17.979 852.664 16.2271 852.664 53.7967C852.664 149.391 852.664 282.6 852.664 415.832C852.664 549.259 852.664 682.697 852.664 778.44C852.664 816.01 842.747 850.227 826.7 876.917C810.664 910.105 774.518 933.935 732.781 933.935C691.045 933.935 654.899 910.105 638.863 876.917C622.828 850.239 612.899 816.033 612.899 778.463C612.899 682.869 612.899 549.66 612.899 416.427C612.899 283.195 612.899 149.562 612.899 53.8195C612.899 16.25 622.816 -17.9676 638.863 -44.6575Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M648.284 42.0363C660.314 9.40897 693.717 -14.7412 732.79 -14.7412C771.852 -14.7412 805.266 9.40897 817.296 42.0363C829.325 66.8615 836.763 97.9674 836.763 132.071C836.763 219.965 836.763 339.595 836.763 459.237C836.763 578.878 836.763 699.011 836.763 787.089C836.763 821.204 829.325 852.321 817.296 877.158C805.266 909.785 771.863 933.935 732.79 933.935C693.728 933.935 660.314 909.785 648.296 877.158C636.266 852.332 628.828 821.227 628.828 787.123C628.828 699.229 628.828 579.599 628.828 459.957C628.828 340.316 628.828 220.183 628.828 132.105C628.828 97.9902 636.255 66.873 648.284 42.0363Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M657.705 128.741C665.729 96.6746 696.388 72.2041 732.787 72.2041C769.185 72.2041 799.845 96.6632 807.868 128.741C815.892 151.702 820.851 179.719 820.851 210.356C820.851 290.54 820.851 396.59 820.851 502.652C820.851 608.714 820.851 715.336 820.851 795.749C820.851 826.397 815.892 854.426 807.868 877.409C799.845 909.476 769.185 933.947 732.787 933.947C696.388 933.947 665.729 909.487 657.705 877.409C649.681 854.449 644.723 826.432 644.723 795.795C644.723 715.611 644.723 609.56 644.723 503.499C644.723 397.174 644.723 290.814 644.723 210.401C644.723 179.753 649.681 151.725 657.705 128.741Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M667.12 215.435C671.126 183.917 699.053 159.138 732.778 159.138C766.513 159.138 794.429 183.917 798.435 215.435C802.441 236.542 804.921 261.459 804.921 288.629C804.921 361.114 804.921 453.573 804.921 546.056C804.921 638.538 804.921 731.65 804.921 804.398C804.921 831.591 802.441 856.519 798.435 877.638C794.429 909.155 766.502 933.935 732.778 933.935C699.042 933.935 671.126 909.155 667.12 877.638C663.114 856.531 660.635 831.614 660.635 804.444C660.635 731.959 660.635 639.499 660.635 547.017C660.635 454.237 660.635 361.423 660.635 288.675C660.635 261.481 663.114 236.553 667.12 215.435Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+<path d="M789.037 302.14C789.037 271.181 763.855 246.083 732.792 246.083C701.728 246.083 676.546 271.181 676.546 302.14L676.546 877.89C676.546 908.849 701.728 933.947 732.792 933.947C763.855 933.947 789.037 908.849 789.037 877.89L789.037 302.14Z" stroke="#9944FF" stroke-miterlimit="10" vector-effect="non-scaling-stroke"/>
+</g>
+</svg></div></div></section></main><footer class="section section-footer"><div class="footer-main"><div class="footer-container"><div class="footer-layout"><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38b0-07db38ac" class="footer-col"><div class="footer-col-heading">Platform</div><a href="platform/issuing" class="footer-link">Issuing</a><a href="platform/processing" class="footer-link">Processing</a><a href="platform/accounts" class="footer-link">Accounts &amp; Transfers</a><a href="platform/risk-management" class="footer-link is-last">Risk Management</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38bb-07db38ac" class="footer-col"><div class="footer-col-heading">Services</div><a href="services/graduation-path" class="footer-link">Graduation Path</a><a href="services/processing-only" class="footer-link">Processing Only</a><a href="services/program-management" class="footer-link">Program Management</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38c6-07db38ac" class="footer-col"><div class="footer-col-heading">Solutions</div><a href="solutions/bill-pay" class="footer-link">Bill Pay &amp; Accounts Payable</a><a href="solutions/digital-banking" class="footer-link">Digital Banking</a><a href="solutions/disbursements" class="footer-link">Disbursements</a><a href="solutions/expense-management" class="footer-link">Expense Management</a><a href="solutions/rewards-and-incentives" class="footer-link">Rewards &amp; Incentives</a><a href="solutions/cobrand-platforms" class="footer-link">Platforms</a><a href="solutions/fleet-cards" class="footer-link">Fleet Cards</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38d7-07db38ac" class="footer-col"><div class="footer-col-heading">Developers</div><a href="https://docs.lithic.com/docs/getting-started" target="_blank" class="footer-link">Documentation</a><a href="https://app.lithic.com/signup" class="footer-link">Sandbox</a><a href="https://status.lithic.com/" target="_blank" class="footer-link">API Status</a><a href="https://docs.lithic.com/docs/api-libraries" target="_blank" class="footer-link">Libraries &amp; SDKs</a><a href="https://docs.lithic.com/changelog" target="_blank" class="footer-link is-last">Changelog</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38e4-07db38ac" class="footer-col"><div class="footer-col-heading">Resources</div><a href="http://www.lithic.com/blog" class="footer-link">Blog</a><a href="https://docs.lithic.com/docs/legal-templates" target="_blank" class="footer-link">Legal Library</a><a href="press" class="footer-link">Press</a><a href="legal/terms" class="footer-link">Terms &amp; Conditions</a><a href="legal/privacy-policy" class="footer-link is-last">Privacy Policy</a></div><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38f1-07db38ac" class="footer-col"><div class="footer-col-heading">Company</div><a href="customers" class="footer-link">Customers</a><a href="about" class="footer-link">About</a><a href="careers" aria-current="page" class="footer-link w--current">Careers</a><a href="contact" class="footer-link">Contact</a></div></div><div class="spacer-large mobile-large"></div><div class="footer-layout _3-col-mobile-p"><div id="w-node-_74490150-523d-0e86-ce42-27fe07db38fe-07db38ac" class="footer-col"><a href="index.html" aria-label="home" id="w-node-_74490150-523d-0e86-ce42-27fe07db38ff-07db38ac" class="navbar_logo-link w-nav-brand"><div class="nav_logo w-embed"><svg width="100" height="17" viewBox="0 0 100 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M82.932 8.5002C82.932 3.55725 86.8188 0.790039 91.5716 0.790039C96.0076 0.790039 99.6409 3.47275 99.9789 7.21165H95.4162C95.1838 5.85973 93.6418 4.52894 91.5716 4.52894C89.4381 4.52894 87.3891 5.85973 87.3891 8.47907C87.3891 11.1829 89.4381 12.4926 91.5716 12.4926C93.6418 12.4926 95.1838 11.1618 95.4162 9.76762H100C99.6409 13.9079 96.0076 16.2315 91.5716 16.2315C86.8188 16.2315 82.932 13.2108 82.932 8.5002Z" fill="white"/>
+<path d="M77.1148 1.10691H81.5719V15.8935H77.1148V1.10691Z" fill="white"/>
+<path d="M75.7543 1.10691V15.8935H71.276V10.1479H64.3263V15.8935H59.8692V1.10691H64.3263V6.55683H71.276V1.10691H75.7543Z" fill="white"/>
+<path d="M58.5234 1.10691V4.69794H52.9468V15.8935H48.4685V4.69794H42.8919V1.10691H58.5234Z" fill="white"/>
+<path d="M37.0746 1.10691H41.5317V15.8935H37.0746V1.10691Z" fill="white"/>
+<path d="M27.1535 12.218L35.7298 12.1968V15.8935H22.6964V1.12802H27.1535V12.218Z" fill="white"/>
+<path d="M0 4.46558C3.10519 4.52895 4.4571 3.53614 4.52048 1.10691H8.53398V4.31771C8.53398 4.69794 8.2805 4.88805 8.15376 4.97255L4.4571 7.71863C4.37261 7.782 3.90789 8.16223 3.27418 8.16223H0V4.46558ZM17.7439 4.46558V8.16223H14.4697C13.836 8.16223 13.3713 7.782 13.2868 7.71863L9.59017 4.97255C9.48455 4.88805 9.20994 4.69794 9.20994 4.31771V1.10691H13.2234C13.2868 3.53614 14.6387 4.52895 17.7439 4.46558ZM0 12.5348V8.83819H3.27418C3.92901 8.83819 4.37261 9.21842 4.4571 9.28179L8.15376 12.0279C8.25937 12.1124 8.53398 12.2814 8.53398 12.6827V15.8935H4.52048C4.4571 13.4643 3.10519 12.4715 0 12.5348ZM17.7439 12.5348C14.6387 12.4715 13.2868 13.4643 13.2234 15.8935H9.20994V12.6827C9.20994 12.2814 9.48455 12.1124 9.59017 12.0279L13.2868 9.28179C13.3713 9.21842 13.836 8.83819 14.4697 8.83819H17.7439V12.5348Z" fill="white"/>
+</svg></div></a></div><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3901-07db38ac" href="https://www.linkedin.com/company/lithic/" target="_blank" class="footer-link-bottom">LinkedIn</a><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3903-07db38ac" href="https://x.com/lithic" target="_blank" class="footer-link-bottom">Twitter</a><a id="w-node-_74490150-523d-0e86-ce42-27fe07db3905-07db38ac" href="https://www.youtube.com/@LithicHQ" target="_blank" class="footer-link-bottom">YouTube</a><div id="w-node-_74490150-523d-0e86-ce42-27fe07db3907-07db38ac" class="footer-link-bottom">© Lithic, Inc. All rights reserved. Lithic is not a bank.</div></div></div></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=669fb74007a2fb8f4db2a8fd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/669fb74007a2fb8f4db2a8fd/js/webflow.c1a238c06.js" type="text/javascript"></script><script> (function(ss,ex){ window.ldfdr=window.ldfdr||function(){(ldfdr._q=ldfdr._q||[]).push([].slice.call(arguments));}; (function(d,s){ fs=d.getElementsByTagName(s)[0]; function ce(src){ var cs=d.createElement(s); cs.src=src; cs.async=1; fs.parentNode.insertBefore(cs,fs); }; ce('https://sc.lfeeder.com/lftracker_v1_'+ss+(ex?'_'+ex:'')+'.js'); })(document,'script'); })('lYNOR8x6EAq4WQJZ'); </script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "6935849";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6935849&fmt=gif" />
+</noscript>
+
+<script>
+/* Update .copyright-year to the class you add to the year number on your copyright text */
+$(function() {
+  $('.copyright-year').text(new Date().getFullYear());
+});
+</script><script>
+const ghSlug = "lithic"; 
+</script>
+<script>
+// Global variables defined here
+const departmentIds = [];
+const root = document.getElementById("root");
+const loading = document.getElementById("loading");
+const jobFilter = document.getElementById("filter");
+const errorWrapper = document.getElementById("errwrapper");
+const errorText = document.getElementById("errtext");
+
+// Filtering function for select element
+jobFilter.onchange = function () {
+  let selectedSection = this.value;
+  if (selectedSection == "all") {
+    let filtered = document.querySelectorAll(".department-section");
+    filtered.forEach((filtered) => {
+      filtered.style.display = "block";
+    });
+  } else {
+    let filtered = document.querySelectorAll(".department-section");
+    filtered.forEach((filtered) => {
+      filtered.style.display = "none";
+    });
+    document.getElementById(selectedSection).style.display = "block";
+  }
+};
+
+// Triggers when the DOM is ready
+window.addEventListener("DOMContentLoaded", (event) => {
+  const handleError = (response) => {
+    if (!response.ok) {
+      throw Error(` ${response.status} ${response.statusText}`);
+    } else {
+      return response.json();
+    }
+  };
+  fetch(
+    "https://boards-api.greenhouse.io/v1/boards/" + ghSlug + "/departments/"
+  )
+    .then(handleError)
+    .then((data) => {
+      data.departments.forEach((department) => {
+        if (department.jobs.length !== 0) {
+          departmentIds.push(department.id);
+          let sectionWrapper = document.getElementById("section");
+          let sectionClone = sectionWrapper.cloneNode(true);
+          sectionClone.id = department.id;
+          root.appendChild(sectionClone);
+          let option = document.createElement("option");
+          option.text = department.name;
+          option.value = department.id;
+          jobFilter.add(option);
+        } else {
+          null;
+        }
+      });
+    })
+    .catch(function writeError(err) {
+      console.error(err);
+    })
+    .finally(() => {
+      writeJobs();
+    });
+});
+// Triggered in finally above
+function writeJobs() {
+  departmentIds.forEach((departmentId) => {
+    const handleError = (response) => {
+      if (!response.ok) {
+        throw Error(` ${response.status} ${response.statusText}`);
+      } else {
+        return response.json();
+      }
+    };
+    fetch(
+      "https://boards-api.greenhouse.io/v1/boards/" +
+        ghSlug +
+        "/departments/" +
+        departmentId
+    )
+      .then(handleError)
+      .then((data) => {
+        let parent = document.getElementById(data.id);
+        let parentContainer = parent.getElementsByClassName("container")[0];
+        let sectionHeading = document.getElementById("dname");
+        let sectionTitle = sectionHeading.cloneNode(true);
+        sectionTitle.innerText = data.name;
+        parentContainer.appendChild(sectionTitle);
+        data.jobs.forEach((job) => {
+          let listing = document.getElementById("listing");
+          let ghListing = listing.cloneNode(true);
+          ghListing.id = job.id;
+          let jobTitle = ghListing.getElementsByClassName("job-title")[0];
+          jobTitle.innerText = job.title;
+          jobTitle.setAttribute("href", job.absolute_url);
+          let jobLocation = ghListing.getElementsByClassName("job-location")[0];
+          jobLocation.innerText = job.location.name;
+          parentContainer.appendChild(ghListing);
+        });
+      })
+      .catch(function writeError(err) {
+        console.error(err);
+      })
+      .finally(() => {
+        loading.classList.add("invisible");
+        loading.remove();
+        root.classList.add("visible");
+      });
+  });
+}
+</script></body></html>
